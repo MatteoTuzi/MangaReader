@@ -1,0 +1,4791 @@
+{
+  "baseUrl": "https://onepiecepower.com/manga8/onepiece/volumiSpeciali/volumiColored",
+  "mangaTitle": "One Piece Volumi Colored",
+  "volumes": [
+    {
+      "number": "001",
+      "chapters": [
+        {
+          "num": "001",
+          "title": "Romance Dawn, l'alba di una grande avventura"
+        },
+        {
+          "num": "002",
+          "title": "Luffy, il ragazzo dal Cappello di Paglia"
+        },
+        {
+          "num": "003",
+          "title": "Zoro, il Cacciatore di Pirati"
+        },
+        {
+          "num": "004",
+          "title": "Il Grande Capitano Morgan"
+        },
+        {
+          "num": "005",
+          "title": "Il Re dei Pirati e il Maestro Spadaccino"
+        },
+        {
+          "num": "006",
+          "title": "Il primo compagno"
+        },
+        {
+          "num": "007",
+          "title": "Amici"
+        },
+        {
+          "num": "008",
+          "title": "Appare Nami"
+        }
+      ]
+    },
+    {
+      "number": "002",
+      "chapters": [
+        {
+          "num": "009",
+          "title": "Femme fatale"
+        },
+        {
+          "num": "010",
+          "title": "Incidente al bar"
+        },
+        {
+          "num": "011",
+          "title": "Fuga"
+        },
+        {
+          "num": "012",
+          "title": "Il cane"
+        },
+        {
+          "num": "013",
+          "title": "Tesoro"
+        },
+        {
+          "num": "014",
+          "title": "Imprudente"
+        },
+        {
+          "num": "015",
+          "title": "Gong"
+        },
+        {
+          "num": "016",
+          "title": "VERSUS! I pirati di Buggy!"
+        },
+        {
+          "num": "017",
+          "title": "Livelli diversi"
+        }
+      ]
+    },
+    {
+      "number": "003",
+      "chapters": [
+        {
+          "num": "018",
+          "title": "Il pirata Buggy il Clown"
+        },
+        {
+          "num": "019",
+          "title": "Il frutto del diavolo"
+        },
+        {
+          "num": "020",
+          "title": "La via del ladro"
+        },
+        {
+          "num": "021",
+          "title": "Il villaggio"
+        },
+        {
+          "num": "022",
+          "title": "Sei una strana bestia"
+        },
+        {
+          "num": "023",
+          "title": "Ecco Capitan Usopp"
+        },
+        {
+          "num": "024",
+          "title": "Qualcosa che non posso rinnegare"
+        },
+        {
+          "num": "025",
+          "title": "800 bugie"
+        },
+        {
+          "num": "026",
+          "title": "Il piano di Capitan Kuro"
+        }
+      ]
+    },
+    {
+      "number": "004",
+      "chapters": [
+        {
+          "num": "027",
+          "title": "Il piano"
+        },
+        {
+          "num": "028",
+          "title": "Luna crescente"
+        },
+        {
+          "num": "029",
+          "title": "La salita"
+        },
+        {
+          "num": "030",
+          "title": "Great!!!"
+        },
+        {
+          "num": "031",
+          "title": "Verità"
+        },
+        {
+          "num": "032",
+          "title": "Disastro"
+        },
+        {
+          "num": "033",
+          "title": "L'uomo silenzioso"
+        },
+        {
+          "num": "034",
+          "title": "Il maggiordomo Krahador"
+        },
+        {
+          "num": "035",
+          "title": "Una salita ostica"
+        }
+      ]
+    },
+    {
+      "number": "005",
+      "chapters": [
+        {
+          "num": "036",
+          "title": "Inseguimento!"
+        },
+        {
+          "num": "037",
+          "title": "Il pirata Kuro lo stratega"
+        },
+        {
+          "num": "038",
+          "title": "Pirati"
+        },
+        {
+          "num": "039",
+          "title": "Per chi suona la campana"
+        },
+        {
+          "num": "040",
+          "title": "La ciurma dei pirati di Usopp"
+        },
+        {
+          "num": "041",
+          "title": "Per mare"
+        },
+        {
+          "num": "042",
+          "title": "Yosaku e Johnny"
+        },
+        {
+          "num": "043",
+          "title": "Ecco Sanji"
+        },
+        {
+          "num": "044",
+          "title": "I tre cuochi"
+        }
+      ]
+    },
+    {
+      "number": "006",
+      "chapters": [
+        {
+          "num": "045",
+          "title": "Prima della tempesta"
+        },
+        {
+          "num": "046",
+          "title": "Un ospite sgradito"
+        },
+        {
+          "num": "047",
+          "title": "L'ammiraglio della flotta pirata, don Krieg"
+        },
+        {
+          "num": "048",
+          "title": "Lascia perdere quella rotta"
+        },
+        {
+          "num": "049",
+          "title": "Tempesta"
+        },
+        {
+          "num": "050",
+          "title": "Ognuno per la propria strada"
+        },
+        {
+          "num": "051",
+          "title": "Roronoa Zoro cade in mare"
+        },
+        {
+          "num": "052",
+          "title": "Giuramento"
+        },
+        {
+          "num": "053",
+          "title": "Sabagashira I"
+        }
+      ]
+    },
+    {
+      "number": "007",
+      "chapters": [
+        {
+          "num": "054",
+          "title": "Pearl-san"
+        },
+        {
+          "num": "055",
+          "title": "Jungle blood"
+        },
+        {
+          "num": "056",
+          "title": "Non ci penso nemmeno"
+        },
+        {
+          "num": "057",
+          "title": "A causa dei sogni"
+        },
+        {
+          "num": "058",
+          "title": "Vecchio di merda"
+        },
+        {
+          "num": "059",
+          "title": "Debito"
+        },
+        {
+          "num": "060",
+          "title": "Tra giusto e sbagliato"
+        },
+        {
+          "num": "061",
+          "title": "Demone"
+        },
+        {
+          "num": "062",
+          "title": "MH5"
+        }
+      ]
+    },
+    {
+      "number": "008",
+      "chapters": [
+        {
+          "num": "063",
+          "title": "Io non morirò"
+        },
+        {
+          "num": "064",
+          "title": "Grande lancia da battaglia"
+        },
+        {
+          "num": "065",
+          "title": "Preparazione"
+        },
+        {
+          "num": "066",
+          "title": "La distruzione della lancia"
+        },
+        {
+          "num": "067",
+          "title": "La zuppa"
+        },
+        {
+          "num": "068",
+          "title": "La quarta persona"
+        },
+        {
+          "num": "069",
+          "title": "Arlong park"
+        },
+        {
+          "num": "070",
+          "title": "La grande avventura del prode Usopp"
+        },
+        {
+          "num": "071",
+          "title": "Il re di tutte le creature viventi"
+        }
+      ]
+    },
+    {
+      "number": "009",
+      "chapters": [
+        {
+          "num": "072",
+          "title": "In base ai propri mezzi"
+        },
+        {
+          "num": "073",
+          "title": "Il mostro venuto dalla Grand Line"
+        },
+        {
+          "num": "074",
+          "title": "Affari"
+        },
+        {
+          "num": "075",
+          "title": "Carte nautiche e uomini-pesce"
+        },
+        {
+          "num": "076",
+          "title": "Io dormo"
+        },
+        {
+          "num": "077",
+          "title": "Il primo passo verso la realizzazione del sogno"
+        },
+        {
+          "num": "078",
+          "title": "Bellmère-san"
+        },
+        {
+          "num": "079",
+          "title": "Vivere"
+        },
+        {
+          "num": "080",
+          "title": "Un crimine è un crimine"
+        },
+        {
+          "num": "081",
+          "title": "Lacrime"
+        }
+      ]
+    },
+    {
+      "number": "010",
+      "chapters": [
+        {
+          "num": "082",
+          "title": "Ok, let's stand up!"
+        },
+        {
+          "num": "083",
+          "title": "Rufy in back"
+        },
+        {
+          "num": "084",
+          "title": "Morto vivente"
+        },
+        {
+          "num": "085",
+          "title": "Santoryu vs Rokutoryu"
+        },
+        {
+          "num": "086",
+          "title": "Cavalleria vs karate Uomini-Pesce"
+        },
+        {
+          "num": "087",
+          "title": "è finita!"
+        },
+        {
+          "num": "088",
+          "title": "Morire!"
+        },
+        {
+          "num": "089",
+          "title": "Cambio"
+        },
+        {
+          "num": "090",
+          "title": "Cosa sai fare?!"
+        }
+      ]
+    },
+    {
+      "number": "011",
+      "chapters": [
+        {
+          "num": "091",
+          "title": "Darts"
+        },
+        {
+          "num": "092",
+          "title": "Felicità"
+        },
+        {
+          "num": "093",
+          "title": "Sta crollando"
+        },
+        {
+          "num": "094",
+          "title": "La seconda persona"
+        },
+        {
+          "num": "095",
+          "title": "E la girandola gira"
+        },
+        {
+          "num": "096",
+          "title": "Il peggiore dell'est"
+        },
+        {
+          "num": "097",
+          "title": "Sandai kitetsu"
+        },
+        {
+          "num": "098",
+          "title": "Nuvole nere"
+        },
+        {
+          "num": "099",
+          "title": "La morte di Rufy"
+        }
+      ]
+    },
+    {
+      "number": "012",
+      "chapters": [
+        {
+          "num": "100",
+          "title": "La leggenda ha inizio!"
+        },
+        {
+          "num": "101",
+          "title": "Reverse Mountain"
+        },
+        {
+          "num": "102",
+          "title": "Ecco la Grand Line"
+        },
+        {
+          "num": "103",
+          "title": "La balena"
+        },
+        {
+          "num": "104",
+          "title": "Il promontorio della promessa"
+        },
+        {
+          "num": "105",
+          "title": "Il log pose"
+        },
+        {
+          "num": "106",
+          "title": "La città dell'accoglienza"
+        },
+        {
+          "num": "107",
+          "title": "Lapidi e chiaro di luna"
+        },
+        {
+          "num": "108",
+          "title": "100 cacciatori di taglie"
+        }
+      ]
+    },
+    {
+      "number": "013",
+      "chapters": [
+        {
+          "num": "109",
+          "title": "Responsabilità"
+        },
+        {
+          "num": "110",
+          "title": "La notte infinita"
+        },
+        {
+          "num": "111",
+          "title": "Un'organizzazione criminale segreta"
+        },
+        {
+          "num": "112",
+          "title": "Rufy vs Zoro"
+        },
+        {
+          "num": "113",
+          "title": "Andrà tutto bene"
+        },
+        {
+          "num": "114",
+          "title": "Rotta"
+        },
+        {
+          "num": "115",
+          "title": "Avventura a Little Garden"
+        },
+        {
+          "num": "116",
+          "title": "Immensi"
+        },
+        {
+          "num": "117",
+          "title": "Dorry e Brogy"
+        }
+      ]
+    },
+    {
+      "number": "014",
+      "chapters": [
+        {
+          "num": "118",
+          "title": "Non siamo soli"
+        },
+        {
+          "num": "119",
+          "title": "Espediente"
+        },
+        {
+          "num": "120",
+          "title": "Le lacrime del demone rosso"
+        },
+        {
+          "num": "121",
+          "title": "Lo sapevo"
+        },
+        {
+          "num": "122",
+          "title": "I morti non servono a nulla"
+        },
+        {
+          "num": "123",
+          "title": "Rufy vs Mr.3"
+        },
+        {
+          "num": "124",
+          "title": "Questo tè è davvero delizioso"
+        },
+        {
+          "num": "125",
+          "title": "Candle champion"
+        },
+        {
+          "num": "126",
+          "title": "Istinto"
+        }
+      ]
+    },
+    {
+      "number": "015",
+      "chapters": [
+        {
+          "num": "127",
+          "title": "Il lumacofono"
+        },
+        {
+          "num": "128",
+          "title": "Bandiera pirata"
+        },
+        {
+          "num": "129",
+          "title": "Tutta a dritta!"
+        },
+        {
+          "num": "130",
+          "title": "Alla massima velocità"
+        },
+        {
+          "num": "131",
+          "title": "''Blink'' wapol"
+        },
+        {
+          "num": "132",
+          "title": "Visto?"
+        },
+        {
+          "num": "133",
+          "title": "Avventura nel paese senza nome"
+        },
+        {
+          "num": "134",
+          "title": "La dottoressa Kureha"
+        },
+        {
+          "num": "135",
+          "title": "Lapahn"
+        },
+        {
+          "num": "136",
+          "title": "Un uomo chiamato dorton"
+        }
+      ]
+    },
+    {
+      "number": "016",
+      "chapters": [
+        {
+          "num": "137",
+          "title": "La valanga"
+        },
+        {
+          "num": "138",
+          "title": "In cima"
+        },
+        {
+          "num": "139",
+          "title": "Ecco Tony Tony Chopper"
+        },
+        {
+          "num": "140",
+          "title": "Vita nel castello innevato"
+        },
+        {
+          "num": "141",
+          "title": "Medicastro"
+        },
+        {
+          "num": "142",
+          "title": "Il teschio ed il ciliegio"
+        },
+        {
+          "num": "143",
+          "title": "Inesperto"
+        },
+        {
+          "num": "144",
+          "title": "I racconti della neve"
+        },
+        {
+          "num": "145",
+          "title": "Volontà ereditata"
+        }
+      ]
+    },
+    {
+      "number": "017",
+      "chapters": [
+        {
+          "num": "146",
+          "title": "Combattere per proteggere il regno"
+        },
+        {
+          "num": "147",
+          "title": "Bugia"
+        },
+        {
+          "num": "148",
+          "title": "Indistruttibile"
+        },
+        {
+          "num": "149",
+          "title": "Rumble"
+        },
+        {
+          "num": "150",
+          "title": "Il Royal Drum Crown 7 - Shot Blinking Cannon"
+        },
+        {
+          "num": "151",
+          "title": "Il cielo di Drum"
+        },
+        {
+          "num": "152",
+          "title": "Luna piena"
+        },
+        {
+          "num": "153",
+          "title": "I ciliegi di Hiluluk"
+        },
+        {
+          "num": "154",
+          "title": "Verso Alabasta"
+        },
+        {
+          "num": "155",
+          "title": "Il pirata Sir Crocodile"
+        }
+      ]
+    },
+    {
+      "number": "018",
+      "chapters": [
+        {
+          "num": "156",
+          "title": "Tempo di okama"
+        },
+        {
+          "num": "157",
+          "title": "Ecco Ace"
+        },
+        {
+          "num": "158",
+          "title": "Sbarco ad Alabasta"
+        },
+        {
+          "num": "159",
+          "title": "A presto"
+        },
+        {
+          "num": "160",
+          "title": "Spiders cafè, 8 in punto"
+        },
+        {
+          "num": "161",
+          "title": "Elumalu, la città verde"
+        },
+        {
+          "num": "162",
+          "title": "Avventura nel regno della sabbia"
+        },
+        {
+          "num": "163",
+          "title": "Yuba, la città dei ribelli"
+        },
+        {
+          "num": "164",
+          "title": "Ami questo paese?"
+        },
+        {
+          "num": "165",
+          "title": "Operazione Utopia"
+        },
+        {
+          "num": "166",
+          "title": "Rufy vs Bibi"
+        }
+      ]
+    },
+    {
+      "number": "019",
+      "chapters": [
+        {
+          "num": "167",
+          "title": "Il campo di battaglia"
+        },
+        {
+          "num": "168",
+          "title": "Rainbase, la città dei sogni"
+        },
+        {
+          "num": "169",
+          "title": "Il più forte guerriero del regno"
+        },
+        {
+          "num": "170",
+          "title": "Si comincia"
+        },
+        {
+          "num": "171",
+          "title": "Kohza, il leader ribelle"
+        },
+        {
+          "num": "172",
+          "title": "Ribellione"
+        },
+        {
+          "num": "173",
+          "title": "Coccobanana"
+        },
+        {
+          "num": "174",
+          "title": "Mr. Prince"
+        },
+        {
+          "num": "175",
+          "title": "Libertà"
+        },
+        {
+          "num": "176",
+          "title": "Rush!"
+        }
+      ]
+    },
+    {
+      "number": "020",
+      "chapters": [
+        {
+          "num": "177",
+          "title": "30 milioni vs 81 milioni"
+        },
+        {
+          "num": "178",
+          "title": "Livello Grand Line"
+        },
+        {
+          "num": "179",
+          "title": "La battaglia decisiva sarà al Alubarna"
+        },
+        {
+          "num": "180",
+          "title": "Gli animali del regno di Alabasta"
+        },
+        {
+          "num": "181",
+          "title": "Lo stratagemma della squadra delle super anatre dal becco macchiato"
+        },
+        {
+          "num": "182",
+          "title": "Urla di rabbia"
+        },
+        {
+          "num": "183",
+          "title": "Il comandante Karu"
+        },
+        {
+          "num": "184",
+          "title": "Via cumulo di terra numero 4"
+        },
+        {
+          "num": "185",
+          "title": "Wow... Buono a sapersi..."
+        },
+        {
+          "num": "186",
+          "title": "Four"
+        }
+      ]
+    },
+    {
+      "number": "021",
+      "chapters": [
+        {
+          "num": "187",
+          "title": "Alla pari"
+        },
+        {
+          "num": "188",
+          "title": "Okama Kenpo"
+        },
+        {
+          "num": "189",
+          "title": "Two"
+        },
+        {
+          "num": "190",
+          "title": "Clima Tact"
+        },
+        {
+          "num": "191",
+          "title": "La donna che controlla il clima"
+        },
+        {
+          "num": "192",
+          "title": "Attenzione ai tornado"
+        },
+        {
+          "num": "193",
+          "title": "Utopia"
+        },
+        {
+          "num": "194",
+          "title": "Tagliare l'acciaio"
+        },
+        {
+          "num": "195",
+          "title": "Mr. Bushido"
+        }
+      ]
+    },
+    {
+      "number": "022",
+      "chapters": [
+        {
+          "num": "196",
+          "title": "One"
+        },
+        {
+          "num": "197",
+          "title": "I leader"
+        },
+        {
+          "num": "198",
+          "title": "4:15 del pomeriggio"
+        },
+        {
+          "num": "199",
+          "title": "Speranza"
+        },
+        {
+          "num": "200",
+          "title": "Acqua Rufy"
+        },
+        {
+          "num": "201",
+          "title": "Nico Robin"
+        },
+        {
+          "num": "202",
+          "title": "La tomba reale"
+        },
+        {
+          "num": "203",
+          "title": "Puzza di coccodrillo"
+        },
+        {
+          "num": "204",
+          "title": "Sangue"
+        },
+        {
+          "num": "205",
+          "title": "La base segreta del clan della sabbia"
+        }
+      ]
+    },
+    {
+      "number": "023",
+      "chapters": [
+        {
+          "num": "206",
+          "title": "Fuoco alle polveri"
+        },
+        {
+          "num": "207",
+          "title": "Incubo"
+        },
+        {
+          "num": "208",
+          "title": "La divinità protettrice"
+        },
+        {
+          "num": "209",
+          "title": "Ti supererò"
+        },
+        {
+          "num": "210",
+          "title": "Zero"
+        },
+        {
+          "num": "211",
+          "title": "Il re"
+        },
+        {
+          "num": "212",
+          "title": "Un po' di giustizia"
+        },
+        {
+          "num": "213",
+          "title": "VIP"
+        },
+        {
+          "num": "214",
+          "title": "Il piano per fuggire dal regno di sabbia"
+        },
+        {
+          "num": "215",
+          "title": "L'ultimo valzer"
+        },
+        {
+          "num": "216",
+          "title": "L'avventura di Bibi"
+        }
+      ]
+    },
+    {
+      "number": "024",
+      "chapters": [
+        {
+          "num": "217",
+          "title": "Clandestino a bordo"
+        },
+        {
+          "num": "218",
+          "title": "Il motivo per cui il log pose è sferico"
+        },
+        {
+          "num": "219",
+          "title": "Masira, il re dei recuperi"
+        },
+        {
+          "num": "220",
+          "title": "Due passi sott'acqua"
+        },
+        {
+          "num": "221",
+          "title": "I mostri"
+        },
+        {
+          "num": "222",
+          "title": "Il grande rookie"
+        },
+        {
+          "num": "223",
+          "title": "Giuro che non combatterò contro nessuno in questa città"
+        },
+        {
+          "num": "224",
+          "title": "Vietato sognare"
+        },
+        {
+          "num": "225",
+          "title": "I sogni degli uomini"
+        },
+        {
+          "num": "226",
+          "title": "Shojo, il re delle esplorazioni sottomarine"
+        }
+      ]
+    },
+    {
+      "number": "025",
+      "chapters": [
+        {
+          "num": "227",
+          "title": "Noland il bugiardo"
+        },
+        {
+          "num": "228",
+          "title": "Montblanc Cricket, l'ultimo capo della coalizione della montagna delle scimmie"
+        },
+        {
+          "num": "229",
+          "title": "Andiamo a mangiare"
+        },
+        {
+          "num": "230",
+          "title": "Alla ricerca del South Bird"
+        },
+        {
+          "num": "231",
+          "title": "Bellamy la iena"
+        },
+        {
+          "num": "232",
+          "title": "L'uomo da cento milioni"
+        },
+        {
+          "num": "233",
+          "title": "La massima autorità mondiale"
+        },
+        {
+          "num": "234",
+          "title": "Abbiate l'accortezza di non dimenticarlo"
+        },
+        {
+          "num": "235",
+          "title": "Knock Up Stream"
+        },
+        {
+          "num": "236",
+          "title": "La nave vola nel cielo"
+        }
+      ]
+    },
+    {
+      "number": "026",
+      "chapters": [
+        {
+          "num": "237",
+          "title": "In cielo"
+        },
+        {
+          "num": "238",
+          "title": "La porta del paradiso"
+        },
+        {
+          "num": "239",
+          "title": "Angel Beach"
+        },
+        {
+          "num": "240",
+          "title": "L'energia dei dial"
+        },
+        {
+          "num": "241",
+          "title": "Il giudizio divino"
+        },
+        {
+          "num": "242",
+          "title": "Criminali di seconda classe"
+        },
+        {
+          "num": "243",
+          "title": "Le prove"
+        },
+        {
+          "num": "244",
+          "title": "S.O.S"
+        },
+        {
+          "num": "245",
+          "title": "Avventura sull'isola di Dio"
+        },
+        {
+          "num": "246",
+          "title": "Satori, il sacerdote della foresta dei perduti"
+        }
+      ]
+    },
+    {
+      "number": "027",
+      "chapters": [
+        {
+          "num": "247",
+          "title": "La prova delle sfere"
+        },
+        {
+          "num": "248",
+          "title": "Ex Dio vs Sacerdote"
+        },
+        {
+          "num": "249",
+          "title": "Il villaggio nascosto fra le nuvole"
+        },
+        {
+          "num": "250",
+          "title": "Il drago di sfere"
+        },
+        {
+          "num": "251",
+          "title": "Preludio"
+        },
+        {
+          "num": "252",
+          "title": "Ricongiungimento"
+        },
+        {
+          "num": "253",
+          "title": "Vearth"
+        },
+        {
+          "num": "254",
+          "title": "Aubade"
+        },
+        {
+          "num": "255",
+          "title": "Il serpentone e il gruppo di ricerca"
+        }
+      ]
+    },
+    {
+      "number": "028",
+      "chapters": [
+        {
+          "num": "256",
+          "title": "Wiper il demone combattente"
+        },
+        {
+          "num": "257",
+          "title": "Dial battle"
+        },
+        {
+          "num": "258",
+          "title": "Molteplici direzioni verso sud"
+        },
+        {
+          "num": "259",
+          "title": "Zoro il pirata vs Braham il guerriero"
+        },
+        {
+          "num": "260",
+          "title": "Rufy il pirata vs Wiper il demone combattente"
+        },
+        {
+          "num": "261",
+          "title": "Gembo il guerriero vs Yama, il comandante della Guardia Sacra"
+        },
+        {
+          "num": "262",
+          "title": "Chopper il pirata vs Gedatsu il sacerdote"
+        },
+        {
+          "num": "263",
+          "title": "Nami la pirata e lo strano cavaliere vs i Vice Comandanti dell'Armata sacra"
+        },
+        {
+          "num": "264",
+          "title": "Kamakiri il guerriero vs Dio Ener"
+        }
+      ]
+    },
+    {
+      "number": "029",
+      "chapters": [
+        {
+          "num": "265",
+          "title": "Robin la piratessa vs Yama, il comandante della guardia sacra"
+        },
+        {
+          "num": "266",
+          "title": "Chopper il pirata vs Ohm il sacerdote"
+        },
+        {
+          "num": "267",
+          "title": "Marcia"
+        },
+        {
+          "num": "268",
+          "title": "Suite"
+        },
+        {
+          "num": "269",
+          "title": "Concerto"
+        },
+        {
+          "num": "270",
+          "title": "Serenata"
+        },
+        {
+          "num": "271",
+          "title": "Zoro il pirata vs Ohm il sacerdote"
+        },
+        {
+          "num": "272",
+          "title": "Play"
+        },
+        {
+          "num": "273",
+          "title": "Quintetto"
+        },
+        {
+          "num": "274",
+          "title": "Oratorio"
+        },
+        {
+          "num": "275",
+          "title": "Divina Commedia"
+        }
+      ]
+    },
+    {
+      "number": "030",
+      "chapters": [
+        {
+          "num": "276",
+          "title": "Shandia Rhythm"
+        },
+        {
+          "num": "277",
+          "title": "Maxim"
+        },
+        {
+          "num": "278",
+          "title": "Konis"
+        },
+        {
+          "num": "279",
+          "title": "Rufy il Pirata vs Dio Ener"
+        },
+        {
+          "num": "280",
+          "title": "Emersione"
+        },
+        {
+          "num": "281",
+          "title": "Deathpiea"
+        },
+        {
+          "num": "282",
+          "title": "Desiderio"
+        },
+        {
+          "num": "283",
+          "title": "In prima linea nel salvataggio in nome dell'amore"
+        },
+        {
+          "num": "284",
+          "title": "Ti ringrazio"
+        },
+        {
+          "num": "285",
+          "title": "Capriccio"
+        }
+      ]
+    },
+    {
+      "number": "031",
+      "chapters": [
+        {
+          "num": "286",
+          "title": "Il demone di Shandora"
+        },
+        {
+          "num": "287",
+          "title": "Deicidio"
+        },
+        {
+          "num": "288",
+          "title": "Maledizione"
+        },
+        {
+          "num": "289",
+          "title": "Plenilunio"
+        },
+        {
+          "num": "290",
+          "title": "La luce di Shandora"
+        },
+        {
+          "num": "291",
+          "title": "Noi siamo qui"
+        },
+        {
+          "num": "292",
+          "title": "Incontrando una mezzaluna tra le nuvole"
+        },
+        {
+          "num": "293",
+          "title": "Bolero"
+        },
+        {
+          "num": "294",
+          "title": "Raigo"
+        },
+        {
+          "num": "295",
+          "title": "Giant Jack"
+        }
+      ]
+    },
+    {
+      "number": "032",
+      "chapters": [
+        {
+          "num": "296",
+          "title": "Situazione ad alta quota"
+        },
+        {
+          "num": "297",
+          "title": "Preghiere da terra"
+        },
+        {
+          "num": "298",
+          "title": "Canto d'amore"
+        },
+        {
+          "num": "299",
+          "title": "Fantasia"
+        },
+        {
+          "num": "300",
+          "title": "Sinfonia"
+        },
+        {
+          "num": "301",
+          "title": "Sono stato qui"
+        },
+        {
+          "num": "302",
+          "title": "Finale"
+        },
+        {
+          "num": "303",
+          "title": "I pirati ricchi sfondati"
+        },
+        {
+          "num": "304",
+          "title": "Avventura sull'isola lunga"
+        },
+        {
+          "num": "305",
+          "title": "Foxy la volpe argentata"
+        }
+      ]
+    },
+    {
+      "number": "033",
+      "chapters": [
+        {
+          "num": "306",
+          "title": "Donut race"
+        },
+        {
+          "num": "307",
+          "title": "Pronti, partenza... donut!"
+        },
+        {
+          "num": "308",
+          "title": "Battaglia d'interferenze"
+        },
+        {
+          "num": "309",
+          "title": "Groggy monsters"
+        },
+        {
+          "num": "310",
+          "title": "Groggy ring"
+        },
+        {
+          "num": "311",
+          "title": "Gioco duro"
+        },
+        {
+          "num": "312",
+          "title": "Goal!"
+        },
+        {
+          "num": "313",
+          "title": "L'evento principale"
+        },
+        {
+          "num": "314",
+          "title": "Combattimento!"
+        },
+        {
+          "num": "315",
+          "title": "La stanza segreta"
+        },
+        {
+          "num": "316",
+          "title": "Anima fraterna"
+        }
+      ]
+    },
+    {
+      "number": "034",
+      "chapters": [
+        {
+          "num": "317",
+          "title": "K.O."
+        },
+        {
+          "num": "318",
+          "title": "Fine dei giochi"
+        },
+        {
+          "num": "319",
+          "title": "L'ammiraglio Aokiji del quartier generale della marina"
+        },
+        {
+          "num": "320",
+          "title": "Un potere straordinario"
+        },
+        {
+          "num": "321",
+          "title": "Da uomo a uomo"
+        },
+        {
+          "num": "322",
+          "title": "Puffing Tom"
+        },
+        {
+          "num": "323",
+          "title": "Water Seven la città dell'acqua"
+        },
+        {
+          "num": "324",
+          "title": "Avventura nella città d'acqua"
+        },
+        {
+          "num": "325",
+          "title": "Franky Family"
+        },
+        {
+          "num": "326",
+          "title": "Iceburg-san"
+        },
+        {
+          "num": "327",
+          "title": "Il Dock 1 dell'isola dei cantieri navali"
+        }
+      ]
+    },
+    {
+      "number": "035",
+      "chapters": [
+        {
+          "num": "328",
+          "title": "L'incidente del sequestro del pirata"
+        },
+        {
+          "num": "329",
+          "title": "Il mio nome è Franky"
+        },
+        {
+          "num": "330",
+          "title": "Ho deciso!"
+        },
+        {
+          "num": "331",
+          "title": "Un grande litigio"
+        },
+        {
+          "num": "332",
+          "title": "Rufy vs Usop"
+        },
+        {
+          "num": "333",
+          "title": "Capitano"
+        },
+        {
+          "num": "334",
+          "title": "L'incidente della stanza chiusa a chiave"
+        },
+        {
+          "num": "335",
+          "title": "Avvertimento"
+        },
+        {
+          "num": "336",
+          "title": "Rufy vs Franky"
+        }
+      ]
+    },
+    {
+      "number": "036",
+      "chapters": [
+        {
+          "num": "337",
+          "title": "I guardiani della città dell'acqua"
+        },
+        {
+          "num": "338",
+          "title": "Coup de vent"
+        },
+        {
+          "num": "339",
+          "title": "Qualche chiacchiera"
+        },
+        {
+          "num": "340",
+          "title": "La donna portatrice di sventura"
+        },
+        {
+          "num": "341",
+          "title": "Diavolo"
+        },
+        {
+          "num": "342",
+          "title": "I messaggeri dell'oscurità"
+        },
+        {
+          "num": "343",
+          "title": "Chiper Pol N°9"
+        },
+        {
+          "num": "344",
+          "title": "Potere contrapposto"
+        },
+        {
+          "num": "345",
+          "title": "Gli infiltrati"
+        },
+        {
+          "num": "346",
+          "title": "La nona giustizia"
+        }
+      ]
+    },
+    {
+      "number": "037",
+      "chapters": [
+        {
+          "num": "347",
+          "title": "Rokushiki"
+        },
+        {
+          "num": "348",
+          "title": "Forza combattiva"
+        },
+        {
+          "num": "349",
+          "title": "Comune cittadino"
+        },
+        {
+          "num": "350",
+          "title": "Il magazzino sotto il ponte"
+        },
+        {
+          "num": "351",
+          "title": "Klabautermann"
+        },
+        {
+          "num": "352",
+          "title": "Tom's Workers"
+        },
+        {
+          "num": "353",
+          "title": "Il leggendario carpentiere"
+        },
+        {
+          "num": "354",
+          "title": "Il Treno marino"
+        },
+        {
+          "num": "355",
+          "title": "Spandam"
+        },
+        {
+          "num": "356",
+          "title": "Tom-san"
+        },
+        {
+          "num": "357",
+          "title": "Cutty Flam"
+        }
+      ]
+    },
+    {
+      "number": "038",
+      "chapters": [
+        {
+          "num": "358",
+          "title": "Resurrezione"
+        },
+        {
+          "num": "359",
+          "title": "Bingo"
+        },
+        {
+          "num": "360",
+          "title": "Partenza imminente"
+        },
+        {
+          "num": "361",
+          "title": "P.S."
+        },
+        {
+          "num": "362",
+          "title": "Riflusso di marea"
+        },
+        {
+          "num": "363",
+          "title": "Acqua laguna"
+        },
+        {
+          "num": "364",
+          "title": "Kokoro"
+        },
+        {
+          "num": "365",
+          "title": "Rocketman!"
+        },
+        {
+          "num": "366",
+          "title": "Si va in scena"
+        },
+        {
+          "num": "367",
+          "title": "Sogeking"
+        }
+      ]
+    },
+    {
+      "number": "039",
+      "chapters": [
+        {
+          "num": "368",
+          "title": "Battaglia a bordo del treno marino"
+        },
+        {
+          "num": "369",
+          "title": "Ramen Kenpo"
+        },
+        {
+          "num": "370",
+          "title": "Non sei sola"
+        },
+        {
+          "num": "371",
+          "title": "L'ammirevole capitano T-Bone"
+        },
+        {
+          "num": "372",
+          "title": "Parage"
+        },
+        {
+          "num": "373",
+          "title": "Male necessario"
+        },
+        {
+          "num": "374",
+          "title": "Lotta"
+        },
+        {
+          "num": "375",
+          "title": "I superuomini di Enies Lobby"
+        },
+        {
+          "num": "376",
+          "title": "Ho capito!"
+        },
+        {
+          "num": "377",
+          "title": "La grande battaglia decisiva sull'isola giudiziaria"
+        }
+      ]
+    },
+    {
+      "number": "040",
+      "chapters": [
+        {
+          "num": "378",
+          "title": "Il bilancio delle perdite"
+        },
+        {
+          "num": "379",
+          "title": "Doriki"
+        },
+        {
+          "num": "380",
+          "title": "Espresso per l'isola principale di Enies Lobby"
+        },
+        {
+          "num": "381",
+          "title": "Licenziati"
+        },
+        {
+          "num": "382",
+          "title": "Il covo dei demoni"
+        },
+        {
+          "num": "383",
+          "title": "Rufy vs Blueno"
+        },
+        {
+          "num": "384",
+          "title": "L'ora del contrattacco"
+        },
+        {
+          "num": "385",
+          "title": "C'è solo un modo"
+        },
+        {
+          "num": "386",
+          "title": "Senza precedenti"
+        },
+        {
+          "num": "387",
+          "title": "Gear"
+        },
+        {
+          "num": "388",
+          "title": "Gear Second"
+        }
+      ]
+    },
+    {
+      "number": "041",
+      "chapters": [
+        {
+          "num": "389",
+          "title": "Risposta"
+        },
+        {
+          "num": "390",
+          "title": "Contrattacco"
+        },
+        {
+          "num": "391",
+          "title": "La bambina chiamata mostro"
+        },
+        {
+          "num": "392",
+          "title": "Dereshi"
+        },
+        {
+          "num": "393",
+          "title": "Olvia"
+        },
+        {
+          "num": "394",
+          "title": "I demoni di Ohara"
+        },
+        {
+          "num": "395",
+          "title": "Ohara vs governo mondiale"
+        },
+        {
+          "num": "396",
+          "title": "Saul"
+        },
+        {
+          "num": "397",
+          "title": "Raggiungere il futuro"
+        },
+        {
+          "num": "398",
+          "title": "Dichiarazione di guerra"
+        },
+        {
+          "num": "399",
+          "title": "Saltate nella cascata!!"
+        }
+      ]
+    },
+    {
+      "number": "042",
+      "chapters": [
+        {
+          "num": "400",
+          "title": "La chiave della libertà"
+        },
+        {
+          "num": "401",
+          "title": "Pirati vs CP9"
+        },
+        {
+          "num": "402",
+          "title": "Le manette numero 2"
+        },
+        {
+          "num": "403",
+          "title": "Mister cavalleria"
+        },
+        {
+          "num": "404",
+          "title": "Franky vs Fukuro"
+        },
+        {
+          "num": "405",
+          "title": "Potere"
+        },
+        {
+          "num": "406",
+          "title": "Seimei Kikan"
+        },
+        {
+          "num": "407",
+          "title": "Mostro"
+        },
+        {
+          "num": "408",
+          "title": "Il mostro vs Kumadori"
+        },
+        {
+          "num": "409",
+          "title": "Cattive notizie dalla trasmissione d'emergenza"
+        }
+      ]
+    },
+    {
+      "number": "043",
+      "chapters": [
+        {
+          "num": "410",
+          "title": "La Nami gigantesca"
+        },
+        {
+          "num": "411",
+          "title": "Nami vs Califa"
+        },
+        {
+          "num": "412",
+          "title": "Occasione persa"
+        },
+        {
+          "num": "413",
+          "title": "Il cacciatore"
+        },
+        {
+          "num": "414",
+          "title": "Sanji vs Jabura"
+        },
+        {
+          "num": "415",
+          "title": "Heat up!"
+        },
+        {
+          "num": "416",
+          "title": "Zoro vs Kaku"
+        },
+        {
+          "num": "417",
+          "title": "Ashura"
+        },
+        {
+          "num": "418",
+          "title": "Rufy vs Rob Lucci"
+        },
+        {
+          "num": "419",
+          "title": "La leggenda dell'eroe"
+        }
+      ]
+    },
+    {
+      "number": "044",
+      "chapters": [
+        {
+          "num": "420",
+          "title": "Buster Call"
+        },
+        {
+          "num": "421",
+          "title": "Gear Third"
+        },
+        {
+          "num": "422",
+          "title": "Rob Lucci"
+        },
+        {
+          "num": "423",
+          "title": "La leggenda della sirena"
+        },
+        {
+          "num": "424",
+          "title": "Nave per la fuga"
+        },
+        {
+          "num": "425",
+          "title": "Combattimento disperato sul ponte"
+        },
+        {
+          "num": "426",
+          "title": "Nave in attesa del vento"
+        },
+        {
+          "num": "427",
+          "title": "Qui non siamo affatto all'inferno!"
+        },
+        {
+          "num": "428",
+          "title": "Torniamo indietro!"
+        },
+        {
+          "num": "429",
+          "title": "Disfatta totale"
+        },
+        {
+          "num": "430",
+          "title": "Cade una soffice neve di ricordi"
+        }
+      ]
+    },
+    {
+      "number": "045",
+      "chapters": [
+        {
+          "num": "431",
+          "title": "L'amorevole pugno"
+        },
+        {
+          "num": "432",
+          "title": "Scatola a sorpresa"
+        },
+        {
+          "num": "433",
+          "title": "Il nome di quel mare è..."
+        },
+        {
+          "num": "434",
+          "title": "Barbabianca e il Rosso"
+        },
+        {
+          "num": "435",
+          "title": "Capiamo ciò che provate..."
+        },
+        {
+          "num": "436",
+          "title": "Pants from Frankyhouse"
+        },
+        {
+          "num": "437",
+          "title": "Nudo, ma uomo vero"
+        },
+        {
+          "num": "438",
+          "title": "Orgoglio"
+        },
+        {
+          "num": "439",
+          "title": "Il terzo e il settimo"
+        },
+        {
+          "num": "440",
+          "title": "Pugno di fuoco vs Barbanera"
+        }
+      ]
+    },
+    {
+      "number": "046",
+      "chapters": [
+        {
+          "num": "441",
+          "title": "Duello sull'isola di Banaro"
+        },
+        {
+          "num": "442",
+          "title": "Avventura nelle acque malefiche"
+        },
+        {
+          "num": "443",
+          "title": "Thriller Bark"
+        },
+        {
+          "num": "444",
+          "title": "Avventura sull'isola fantasma"
+        },
+        {
+          "num": "445",
+          "title": "The Zombie"
+        },
+        {
+          "num": "446",
+          "title": "Il dottor Hogback"
+        },
+        {
+          "num": "447",
+          "title": "Gli Zombie a sorpresa"
+        },
+        {
+          "num": "448",
+          "title": "Moria"
+        },
+        {
+          "num": "449",
+          "title": "I quattro mostri di Thriller Bark"
+        }
+      ]
+    },
+    {
+      "number": "047",
+      "chapters": [
+        {
+          "num": "450",
+          "title": "General Zombie Night"
+        },
+        {
+          "num": "451",
+          "title": "Il wonder garden di Perona!"
+        },
+        {
+          "num": "452",
+          "title": "Jigoro del vento"
+        },
+        {
+          "num": "453",
+          "title": "Cielo coperto con probabili precipitazioni di ossa"
+        },
+        {
+          "num": "454",
+          "title": "Canterino"
+        },
+        {
+          "num": "455",
+          "title": "Gekko Moria della flotta dei sette"
+        },
+        {
+          "num": "456",
+          "title": "Il demone giunto dal regno dei ghiacci"
+        },
+        {
+          "num": "457",
+          "title": "Caaarneee!"
+        },
+        {
+          "num": "458",
+          "title": "Tutto ma non l'afro!"
+        },
+        {
+          "num": "459",
+          "title": "Non potrei mai dire: ''Scusa tanto, ma siamo morti''"
+        }
+      ]
+    },
+    {
+      "number": "048",
+      "chapters": [
+        {
+          "num": "460",
+          "title": "Recuperarle prima che sorga il sole!"
+        },
+        {
+          "num": "461",
+          "title": "Ghost Buster"
+        },
+        {
+          "num": "462",
+          "title": "L'avventura di Oz"
+        },
+        {
+          "num": "463",
+          "title": "Sanji il pirata vs absolom il misterioso"
+        },
+        {
+          "num": "464",
+          "title": "Il sogno di Sanji"
+        },
+        {
+          "num": "465",
+          "title": "Il pirata Usopp vs la principessa Perona"
+        },
+        {
+          "num": "466",
+          "title": "Concluso"
+        },
+        {
+          "num": "467",
+          "title": "Zoro il pirata vs Ryuma il samurai"
+        },
+        {
+          "num": "468",
+          "title": "Chopper il pirata vs lo spettrale Hogback"
+        },
+        {
+          "num": "469",
+          "title": "Venite fuori Mugiwara!!!"
+        },
+        {
+          "num": "470",
+          "title": "Oz vs Mugiwara"
+        }
+      ]
+    },
+    {
+      "number": "049",
+      "chapters": [
+        {
+          "num": "471",
+          "title": "My friend"
+        },
+        {
+          "num": "472",
+          "title": "Down"
+        },
+        {
+          "num": "473",
+          "title": "Bartolomew Kuma della flotta dei sette"
+        },
+        {
+          "num": "474",
+          "title": "Non ci resta che farlo!"
+        },
+        {
+          "num": "475",
+          "title": "I pirati della foresta"
+        },
+        {
+          "num": "476",
+          "title": "Nightmare Rufy"
+        },
+        {
+          "num": "477",
+          "title": "3/8"
+        },
+        {
+          "num": "478",
+          "title": "Luffy vs Luffy"
+        },
+        {
+          "num": "479",
+          "title": "Guerriero della speranza"
+        },
+        {
+          "num": "480",
+          "title": "Intercettamento"
+        },
+        {
+          "num": "481",
+          "title": "Shadow's Asgard"
+        }
+      ]
+    },
+    {
+      "number": "050",
+      "chapters": [
+        {
+          "num": "482",
+          "title": "Arriva l'alba"
+        },
+        {
+          "num": "483",
+          "title": "Fine di un sogno"
+        },
+        {
+          "num": "484",
+          "title": "Boing"
+        },
+        {
+          "num": "485",
+          "title": "Equipaggio di Cappello di Paglia: Zoro il cacciatore di pirati"
+        },
+        {
+          "num": "486",
+          "title": "Pianoforte"
+        },
+        {
+          "num": "487",
+          "title": "Quella canzone"
+        },
+        {
+          "num": "488",
+          "title": "La canzone della vita"
+        },
+        {
+          "num": "489",
+          "title": "L'ottava persona"
+        },
+        {
+          "num": "490",
+          "title": "Ancora li!"
+        },
+        {
+          "num": "491",
+          "title": "I piloti dei pesci volanti"
+        }
+      ]
+    },
+    {
+      "number": "051",
+      "chapters": [
+        {
+          "num": "492",
+          "title": "Duval dalla maschera di ferro"
+        },
+        {
+          "num": "493",
+          "title": "Mi conosci"
+        },
+        {
+          "num": "494",
+          "title": "La tragedia di Duval"
+        },
+        {
+          "num": "495",
+          "title": "Il Cannone Gaon"
+        },
+        {
+          "num": "496",
+          "title": "La Mangrovia Yarukiman"
+        },
+        {
+          "num": "497",
+          "title": "Avventura nell'isola delle bolle danzanti"
+        },
+        {
+          "num": "498",
+          "title": "Le undici Supernove"
+        },
+        {
+          "num": "499",
+          "title": "Sabaody Park"
+        },
+        {
+          "num": "500",
+          "title": "Le braci ardenti della storia"
+        },
+        {
+          "num": "501",
+          "title": "Il mondo inizia a ribollire"
+        },
+        {
+          "num": "502",
+          "title": "L'incidente dei dragoviani"
+        }
+      ]
+    },
+    {
+      "number": "052",
+      "chapters": [
+        {
+          "num": "503",
+          "title": "Un'isola nel caos"
+        },
+        {
+          "num": "504",
+          "title": "Pirati in prima linea all'attacco!!"
+        },
+        {
+          "num": "505",
+          "title": "Orso"
+        },
+        {
+          "num": "506",
+          "title": "Roger e Rayleigh"
+        },
+        {
+          "num": "507",
+          "title": "Lo sbarco di Kizaru"
+        },
+        {
+          "num": "508",
+          "title": "L'isola del massacro"
+        },
+        {
+          "num": "509",
+          "title": "Kizaru contro 4 capitani"
+        },
+        {
+          "num": "510",
+          "title": "La squadra di Cappello di Paglia contro la macchina da guerra"
+        },
+        {
+          "num": "511",
+          "title": "Sentomaru e la sua ascia"
+        },
+        {
+          "num": "512",
+          "title": "La scomparsa di Zoro"
+        }
+      ]
+    },
+    {
+      "number": "053",
+      "chapters": [
+        {
+          "num": "513",
+          "title": "Non ho potuto nemmeno..."
+        },
+        {
+          "num": "514",
+          "title": "Funghi che crescono sul corpo"
+        },
+        {
+          "num": "515",
+          "title": "Avventura nell'isola delle donne"
+        },
+        {
+          "num": "516",
+          "title": "L'imperatrice pirata, Boa Hancock"
+        },
+        {
+          "num": "517",
+          "title": "Il bagno"
+        },
+        {
+          "num": "518",
+          "title": "L'arena"
+        },
+        {
+          "num": "519",
+          "title": "L'indole di un re"
+        },
+        {
+          "num": "520",
+          "title": "L'occhio della Gorgone"
+        },
+        {
+          "num": "521",
+          "title": "L'artiglio dei draghi che si ergono nei cieli"
+        },
+        {
+          "num": "522",
+          "title": "Malattia mortale"
+        }
+      ]
+    },
+    {
+      "number": "054",
+      "chapters": [
+        {
+          "num": "523",
+          "title": "Inferno"
+        },
+        {
+          "num": "524",
+          "title": "Nessuno può fermarci adesso"
+        },
+        {
+          "num": "525",
+          "title": "Impel Down, la prigione subacquea"
+        },
+        {
+          "num": "526",
+          "title": "Avventura nella grande prigione"
+        },
+        {
+          "num": "527",
+          "title": "Lv.1, l'inferno purpureo"
+        },
+        {
+          "num": "528",
+          "title": "Jinbe, il cavaliere dei mari"
+        },
+        {
+          "num": "529",
+          "title": "L'inferno delle bestie"
+        },
+        {
+          "num": "530",
+          "title": "Da un inferno all'altro"
+        },
+        {
+          "num": "531",
+          "title": "L'inferno dell'inedia"
+        },
+        {
+          "num": "532",
+          "title": "Minotauro, la guardia demoniaca"
+        }
+      ]
+    },
+    {
+      "number": "055",
+      "chapters": [
+        {
+          "num": "533",
+          "title": "Livello quattro: l'inferno bollente"
+        },
+        {
+          "num": "534",
+          "title": "Capo guardiano magellan vs il pirata"
+        },
+        {
+          "num": "535",
+          "title": "Amici"
+        },
+        {
+          "num": "536",
+          "title": "L'inferno gelato"
+        },
+        {
+          "num": "537",
+          "title": "Okama all'inferno"
+        },
+        {
+          "num": "538",
+          "title": "Livello cinque virgola cinque: il nuovo regno okama"
+        },
+        {
+          "num": "539",
+          "title": "Emporio: ormoni del vigore"
+        },
+        {
+          "num": "540",
+          "title": "Livello sei: l'inferno eterno"
+        },
+        {
+          "num": "541",
+          "title": "Come mai prima d'ora"
+        }
+      ]
+    },
+    {
+      "number": "056",
+      "chapters": [
+        {
+          "num": "542",
+          "title": "Solo un altro incidente di cui raccontare"
+        },
+        {
+          "num": "543",
+          "title": "Cappello di paglia e Barbanera"
+        },
+        {
+          "num": "544",
+          "title": "Anche l'inferno chiude per ferie"
+        },
+        {
+          "num": "545",
+          "title": "Verso il mondo esterno, dove splende il sole"
+        },
+        {
+          "num": "546",
+          "title": "Il capitano dei pirati uomini-pesce, Jimbe della flotta dei sette"
+        },
+        {
+          "num": "547",
+          "title": "La grande fuga"
+        },
+        {
+          "num": "548",
+          "title": "Grazie"
+        },
+        {
+          "num": "549",
+          "title": "Rotta verso la battaglia"
+        },
+        {
+          "num": "550",
+          "title": "Il quartier generale della marina"
+        },
+        {
+          "num": "551",
+          "title": "L'imperatore Barbabianca"
+        }
+      ]
+    },
+    {
+      "number": "057",
+      "chapters": [
+        {
+          "num": "552",
+          "title": "Ace e Barbabianca"
+        },
+        {
+          "num": "553",
+          "title": "La battaglia decisiva tra i più forti"
+        },
+        {
+          "num": "554",
+          "title": "L'ammiraglio akainu"
+        },
+        {
+          "num": "555",
+          "title": "Oars ed il suo cappello"
+        },
+        {
+          "num": "556",
+          "title": "La giustizia prevarrà!!"
+        },
+        {
+          "num": "557",
+          "title": "Rufy e Barbabianca"
+        },
+        {
+          "num": "558",
+          "title": "Fratellino"
+        },
+        {
+          "num": "559",
+          "title": "Destino"
+        },
+        {
+          "num": "560",
+          "title": "I prigionieri di impel down"
+        },
+        {
+          "num": "561",
+          "title": "Luffy vs Mihawk"
+        },
+        {
+          "num": "562",
+          "title": "Pirata vortice del ragno, Squardo"
+        }
+      ]
+    },
+    {
+      "number": "058",
+      "chapters": [
+        {
+          "num": "563",
+          "title": "Un uomo, un cuore"
+        },
+        {
+          "num": "564",
+          "title": "L'uomo che fa tremare il mondo"
+        },
+        {
+          "num": "565",
+          "title": "Il sentiero di Oars"
+        },
+        {
+          "num": "566",
+          "title": "Assalto"
+        },
+        {
+          "num": "567",
+          "title": "Marineford quartiere generale della marina, piazza Oris"
+        },
+        {
+          "num": "568",
+          "title": "Fai come ti pare, paglia-chan"
+        },
+        {
+          "num": "569",
+          "title": "Mostro"
+        },
+        {
+          "num": "570",
+          "title": "Il ponte della vita"
+        },
+        {
+          "num": "571",
+          "title": "Patibolo"
+        },
+        {
+          "num": "572",
+          "title": "I tempi stanno cambiando"
+        },
+        {
+          "num": "573",
+          "title": "Questa era si chiama ''Barbabianca''"
+        }
+      ]
+    },
+    {
+      "number": "059",
+      "chapters": [
+        {
+          "num": "574",
+          "title": "La morte di Portgas D. Ace"
+        },
+        {
+          "num": "575",
+          "title": "Neanche una parole, solo rabbia"
+        },
+        {
+          "num": "576",
+          "title": "Il grande pirata, Edward Newgate"
+        },
+        {
+          "num": "577",
+          "title": "Un grande evento dopo l'altro"
+        },
+        {
+          "num": "578",
+          "title": "Un regalo per la nuova era"
+        },
+        {
+          "num": "579",
+          "title": "Istanti di coraggio"
+        },
+        {
+          "num": "580",
+          "title": "La fine della guerra"
+        },
+        {
+          "num": "581",
+          "title": "Futuro strisciante"
+        },
+        {
+          "num": "582",
+          "title": "Rufy e Ace"
+        },
+        {
+          "num": "583",
+          "title": "Il capolinea dell'incertezza, Grey terminal"
+        },
+        {
+          "num": "584",
+          "title": "L'incidente Polchemy"
+        }
+      ]
+    },
+    {
+      "number": "060",
+      "chapters": [
+        {
+          "num": "585",
+          "title": "Brindisi tra fratelli"
+        },
+        {
+          "num": "586",
+          "title": "Una fetida città"
+        },
+        {
+          "num": "587",
+          "title": "Io non scapperò"
+        },
+        {
+          "num": "588",
+          "title": "L'oceano di Sabo"
+        },
+        {
+          "num": "589",
+          "title": "Gli sforzi per arrivare alla gloria"
+        },
+        {
+          "num": "590",
+          "title": "Hey, fratellino"
+        },
+        {
+          "num": "591",
+          "title": "Sei sicuro che vada bene?"
+        },
+        {
+          "num": "592",
+          "title": "Gridare"
+        },
+        {
+          "num": "593",
+          "title": "News"
+        },
+        {
+          "num": "594",
+          "title": "Messaggio"
+        }
+      ]
+    },
+    {
+      "number": "061",
+      "chapters": [
+        {
+          "num": "595",
+          "title": "Giuramento"
+        },
+        {
+          "num": "596",
+          "title": "Spectrum"
+        },
+        {
+          "num": "597",
+          "title": "3D2Y"
+        },
+        {
+          "num": "598",
+          "title": "Due anni dopo"
+        },
+        {
+          "num": "599",
+          "title": "I nove pirati"
+        },
+        {
+          "num": "600",
+          "title": "L'isola del nuovo inizio"
+        },
+        {
+          "num": "601",
+          "title": "Romance Dawn for the New World"
+        },
+        {
+          "num": "602",
+          "title": "Timone verso il basso"
+        },
+        {
+          "num": "603",
+          "title": "Conservatelo nel cuore"
+        }
+      ]
+    },
+    {
+      "number": "062",
+      "chapters": [
+        {
+          "num": "604",
+          "title": "Negli abissi"
+        },
+        {
+          "num": "605",
+          "title": "Il kraken e i pirati"
+        },
+        {
+          "num": "606",
+          "title": "Avventura negli abissi"
+        },
+        {
+          "num": "607",
+          "title": "Diecimila metri sotto i mari"
+        },
+        {
+          "num": "608",
+          "title": "Il paradiso sommerso"
+        },
+        {
+          "num": "609",
+          "title": "Avventura nell'isola degli uomini-pesce"
+        },
+        {
+          "num": "610",
+          "title": "Madame Shirley l'indovina"
+        },
+        {
+          "num": "611",
+          "title": "Hody jones"
+        },
+        {
+          "num": "612",
+          "title": "Accompagnati dallo squalo che avevamo salvato"
+        },
+        {
+          "num": "613",
+          "title": "La principessa sirena nella torre conchiglia"
+        },
+        {
+          "num": "614",
+          "title": "Quel che è fatto è fatto"
+        }
+      ]
+    },
+    {
+      "number": "063",
+      "chapters": [
+        {
+          "num": "615",
+          "title": "La maledizione target target"
+        },
+        {
+          "num": "616",
+          "title": "L'anniversario della vendetta"
+        },
+        {
+          "num": "617",
+          "title": "Scioccante incidente a colle corallo"
+        },
+        {
+          "num": "618",
+          "title": "Proposta di matrimonio"
+        },
+        {
+          "num": "619",
+          "title": "Alla foresta marina"
+        },
+        {
+          "num": "620",
+          "title": "Il parco divertimenti tanto anelato"
+        },
+        {
+          "num": "621",
+          "title": "Otohine e Tiger"
+        },
+        {
+          "num": "622",
+          "title": "I pirati del sole"
+        },
+        {
+          "num": "623",
+          "title": "Il pirata Fisher Tiger"
+        },
+        {
+          "num": "624",
+          "title": "La regina Otohine"
+        },
+        {
+          "num": "625",
+          "title": "Volontà senza eredi"
+        },
+        {
+          "num": "626",
+          "title": "I tre fratelli Nettuno"
+        }
+      ]
+    },
+    {
+      "number": "064",
+      "chapters": [
+        {
+          "num": "627",
+          "title": "Te ne sono grato"
+        },
+        {
+          "num": "628",
+          "title": "Purificazione"
+        },
+        {
+          "num": "629",
+          "title": "L'ex-membro della flotta dei 7 non ci sta"
+        },
+        {
+          "num": "630",
+          "title": "A briglia sciolta"
+        },
+        {
+          "num": "631",
+          "title": "Place de la Gyoncorde"
+        },
+        {
+          "num": "632",
+          "title": "Lo sapevo già"
+        },
+        {
+          "num": "633",
+          "title": "Amico o nemico?"
+        },
+        {
+          "num": "634",
+          "title": "Dieci contro centomila"
+        },
+        {
+          "num": "635",
+          "title": "Cosi schifoso da metterti le ali ai piedi"
+        },
+        {
+          "num": "636",
+          "title": "Il generale del paese del futuro"
+        }
+      ]
+    },
+    {
+      "number": "065",
+      "chapters": [
+        {
+          "num": "637",
+          "title": "L'antica arca"
+        },
+        {
+          "num": "638",
+          "title": "Scappahoshi"
+        },
+        {
+          "num": "639",
+          "title": "Proteggerò ogni cosa"
+        },
+        {
+          "num": "640",
+          "title": "Al di sopra dell'isola degli uomini-pesce"
+        },
+        {
+          "num": "641",
+          "title": "Che cosa sei, tu..?!"
+        },
+        {
+          "num": "642",
+          "title": "Perdere la faccia"
+        },
+        {
+          "num": "643",
+          "title": "Phantom"
+        },
+        {
+          "num": "644",
+          "title": "Da zero"
+        },
+        {
+          "num": "645",
+          "title": "Anche la morte è una vendetta"
+        },
+        {
+          "num": "646",
+          "title": "Rana"
+        }
+      ]
+    },
+    {
+      "number": "066",
+      "chapters": [
+        {
+          "num": "647",
+          "title": "Ferma Noah!"
+        },
+        {
+          "num": "648",
+          "title": "La strada che ci porterà a raggiungere il sole"
+        },
+        {
+          "num": "649",
+          "title": "Danza di orate e di platesse"
+        },
+        {
+          "num": "650",
+          "title": "Due cambiamenti che dovreste sapere"
+        },
+        {
+          "num": "651",
+          "title": "Una voce dal Nuovo Mondo"
+        },
+        {
+          "num": "652",
+          "title": "Si prospettano tempi bui"
+        },
+        {
+          "num": "653",
+          "title": "Il cappello di un eroe"
+        },
+        {
+          "num": "654",
+          "title": "Gam (Piccolo Branco)"
+        },
+        {
+          "num": "655",
+          "title": "Punk Hazard"
+        },
+        {
+          "num": "656",
+          "title": "Avventura sull'isola in fiamme"
+        }
+      ]
+    },
+    {
+      "number": "067",
+      "chapters": [
+        {
+          "num": "657",
+          "title": "Una testa mozzata"
+        },
+        {
+          "num": "658",
+          "title": "La stanza dei biscotti"
+        },
+        {
+          "num": "659",
+          "title": "A proposito del busto"
+        },
+        {
+          "num": "660",
+          "title": "Trafalgar Law, membro degli Shichibukai"
+        },
+        {
+          "num": "661",
+          "title": "E dal lago spuntano i predoni"
+        },
+        {
+          "num": "662",
+          "title": "Law degli Shichibukai vs Vice Ammiraglio Smoker"
+        },
+        {
+          "num": "663",
+          "title": "CC"
+        },
+        {
+          "num": "664",
+          "title": "Master Caesar Clown"
+        },
+        {
+          "num": "665",
+          "title": "Caramelle"
+        },
+        {
+          "num": "666",
+          "title": "Gli Yeti Cool Brothers"
+        },
+        {
+          "num": "667",
+          "title": "Cool Fight"
+        }
+      ]
+    },
+    {
+      "number": "068",
+      "chapters": [
+        {
+          "num": "668",
+          "title": "Alleanza pirata"
+        },
+        {
+          "num": "669",
+          "title": "L'operazione ha inizio"
+        },
+        {
+          "num": "670",
+          "title": "Ghiaccio con una porzione di Slime"
+        },
+        {
+          "num": "671",
+          "title": "Gasu Gasu no mi"
+        },
+        {
+          "num": "672",
+          "title": "Il mio nome è Kinemon!!"
+        },
+        {
+          "num": "673",
+          "title": "Vergo e Joker"
+        },
+        {
+          "num": "674",
+          "title": "Spettatori"
+        },
+        {
+          "num": "675",
+          "title": "Il suo nome è ''Shinokuni''"
+        },
+        {
+          "num": "676",
+          "title": "L'arma di distruzione di massa perfetta"
+        },
+        {
+          "num": "677",
+          "title": "Counter Hazard!"
+        },
+        {
+          "num": "678",
+          "title": "Istituto di ricerca, lobby dell'edificio A"
+        }
+      ]
+    },
+    {
+      "number": "069",
+      "chapters": [
+        {
+          "num": "679",
+          "title": "Lo spirito del G-5"
+        },
+        {
+          "num": "680",
+          "title": "Il capo della base G5 della marina, vergo dal bambù brutale"
+        },
+        {
+          "num": "681",
+          "title": "Rufy vs Master"
+        },
+        {
+          "num": "682",
+          "title": "Burattinaio"
+        },
+        {
+          "num": "683",
+          "title": "La donna di ghiaccio"
+        },
+        {
+          "num": "684",
+          "title": "Fermati, Vegapunk"
+        },
+        {
+          "num": "685",
+          "title": "Il mio nome è momonosuke!"
+        },
+        {
+          "num": "686",
+          "title": "La donna neve nella biscuits room"
+        },
+        {
+          "num": "687",
+          "title": "Animale selvaggio"
+        },
+        {
+          "num": "688",
+          "title": "Mocha"
+        },
+        {
+          "num": "689",
+          "title": "Un'isola che non esiste"
+        },
+        {
+          "num": "690",
+          "title": "SAD"
+        }
+      ]
+    },
+    {
+      "number": "070",
+      "chapters": [
+        {
+          "num": "691",
+          "title": "Il re del paese della morte"
+        },
+        {
+          "num": "692",
+          "title": "Gli assassini di dressrosa"
+        },
+        {
+          "num": "693",
+          "title": "Muori per me"
+        },
+        {
+          "num": "694",
+          "title": "Un uomo molto pericoloso"
+        },
+        {
+          "num": "695",
+          "title": "Lasciateli a me!"
+        },
+        {
+          "num": "696",
+          "title": "Interessi comuni"
+        },
+        {
+          "num": "697",
+          "title": "Accordo"
+        },
+        {
+          "num": "698",
+          "title": "L'arrivo di Doflamingo"
+        },
+        {
+          "num": "699",
+          "title": "Edizione del mattino"
+        },
+        {
+          "num": "700",
+          "title": "Il suo gioco"
+        }
+      ]
+    },
+    {
+      "number": "071",
+      "chapters": [
+        {
+          "num": "701",
+          "title": "Avventura nella terra dell'amore, della passione e dei giocattoli"
+        },
+        {
+          "num": "702",
+          "title": "Il colosseo della corrida"
+        },
+        {
+          "num": "703",
+          "title": "Sala d'attesa"
+        },
+        {
+          "num": "704",
+          "title": "Lucy e la statua di Kyros"
+        },
+        {
+          "num": "705",
+          "title": "Maynard l'inseguitore"
+        },
+        {
+          "num": "706",
+          "title": "Non riderò di te"
+        },
+        {
+          "num": "707",
+          "title": "Blocco B"
+        },
+        {
+          "num": "708",
+          "title": "Colosseo di canaglie"
+        },
+        {
+          "num": "709",
+          "title": "King Punch!!"
+        },
+        {
+          "num": "710",
+          "title": "Verso Green Bit"
+        },
+        {
+          "num": "711",
+          "title": "Avventura nella terra dei nani"
+        }
+      ]
+    },
+    {
+      "number": "072",
+      "chapters": [
+        {
+          "num": "712",
+          "title": "Violet"
+        },
+        {
+          "num": "713",
+          "title": "Usoland"
+        },
+        {
+          "num": "714",
+          "title": "Lucy e Ucy"
+        },
+        {
+          "num": "715",
+          "title": "Battaglia serrata nel blocco C"
+        },
+        {
+          "num": "716",
+          "title": "Don Chinjao"
+        },
+        {
+          "num": "717",
+          "title": "Dimenticati da Dressrosa"
+        },
+        {
+          "num": "718",
+          "title": "L'esercito reale Riku ai campo di fiori"
+        },
+        {
+          "num": "719",
+          "title": "Apriti Chinjao"
+        },
+        {
+          "num": "720",
+          "title": "Gladiatori prigionieri"
+        },
+        {
+          "num": "721",
+          "title": "Rebecca ed il signor Soldatino"
+        }
+      ]
+    },
+    {
+      "number": "073",
+      "chapters": [
+        {
+          "num": "722",
+          "title": "Stirpe reale"
+        },
+        {
+          "num": "723",
+          "title": "Cambiamento di piani"
+        },
+        {
+          "num": "724",
+          "title": "Il piano di Law"
+        },
+        {
+          "num": "725",
+          "title": "La donna imbattuta"
+        },
+        {
+          "num": "726",
+          "title": "La famiglia Riku"
+        },
+        {
+          "num": "727",
+          "title": "Un eroe che attende nell'ombra"
+        },
+        {
+          "num": "728",
+          "title": "Tutte queste tragedie"
+        },
+        {
+          "num": "729",
+          "title": "Doflamingo della flotta dei 7 contro Law della flotta dei 7"
+        },
+        {
+          "num": "730",
+          "title": "Tre Carte"
+        },
+        {
+          "num": "731",
+          "title": "Dressrosa Operazione S.O.P"
+        }
+      ]
+    },
+    {
+      "number": "074",
+      "chapters": [
+        {
+          "num": "732",
+          "title": "Il Mondo Sotterraneo"
+        },
+        {
+          "num": "733",
+          "title": "A cosa ambisce Soldatino"
+        },
+        {
+          "num": "734",
+          "title": "Il turbine di Rommel"
+        },
+        {
+          "num": "735",
+          "title": "Le intenzioni di Fujitora"
+        },
+        {
+          "num": "736",
+          "title": "Il capo del personale esecutivo, Diamante"
+        },
+        {
+          "num": "737",
+          "title": "La torre del personale esecutivo"
+        },
+        {
+          "num": "738",
+          "title": "L'agente Sugar, dell'esercito di Trebol"
+        },
+        {
+          "num": "739",
+          "title": "Comandante"
+        },
+        {
+          "num": "740",
+          "title": "Per favore"
+        },
+        {
+          "num": "741",
+          "title": "Usoland il bugiardo"
+        },
+        {
+          "num": "742",
+          "title": "Ti sarò sempre accanto"
+        }
+      ]
+    },
+    {
+      "number": "075",
+      "chapters": [
+        {
+          "num": "743",
+          "title": "Dressrosa in tumulto"
+        },
+        {
+          "num": "744",
+          "title": "Il generale Dell'Armata Rivoluzionaria"
+        },
+        {
+          "num": "745",
+          "title": "La gabbia per uccelli"
+        },
+        {
+          "num": "746",
+          "title": "Stelle"
+        },
+        {
+          "num": "747",
+          "title": "L'Agente d'elite, Pica"
+        },
+        {
+          "num": "748",
+          "title": "Restituire il favore"
+        },
+        {
+          "num": "749",
+          "title": "Avanzata! L'esercito dei piccoletti"
+        },
+        {
+          "num": "750",
+          "title": "Riprende la battaglia! L'assalto a Dressrosa!"
+        },
+        {
+          "num": "751",
+          "title": "Sabo contro l'Ammiraglio Fujitora"
+        },
+        {
+          "num": "752",
+          "title": "Palmo"
+        }
+      ]
+    },
+    {
+      "number": "076",
+      "chapters": [
+        {
+          "num": "753",
+          "title": "Guerra"
+        },
+        {
+          "num": "754",
+          "title": "Lieto di fare la tua conoscenza"
+        },
+        {
+          "num": "755",
+          "title": "Un mondo al maschile"
+        },
+        {
+          "num": "756",
+          "title": "Il quarto livello"
+        },
+        {
+          "num": "757",
+          "title": "Asso nella manica"
+        },
+        {
+          "num": "758",
+          "title": "Ignoralo e va avanti"
+        },
+        {
+          "num": "759",
+          "title": "Piano segreto"
+        },
+        {
+          "num": "760",
+          "title": "La stessa scommessa"
+        },
+        {
+          "num": "761",
+          "title": "Il frutto Ope Ope"
+        },
+        {
+          "num": "762",
+          "title": "La città bianca"
+        },
+        {
+          "num": "763",
+          "title": "Dichiarazione di natura umana"
+        }
+      ]
+    },
+    {
+      "number": "077",
+      "chapters": [
+        {
+          "num": "764",
+          "title": "Il mostro bianco"
+        },
+        {
+          "num": "765",
+          "title": "L'isola del destino, Minion"
+        },
+        {
+          "num": "766",
+          "title": "Smile"
+        },
+        {
+          "num": "767",
+          "title": "Cora-san"
+        },
+        {
+          "num": "768",
+          "title": "Quel grilletto, quel giorno..."
+        },
+        {
+          "num": "769",
+          "title": "Il pirata Bellamy"
+        },
+        {
+          "num": "770",
+          "title": "La lancia di Erbaf"
+        },
+        {
+          "num": "771",
+          "title": "Sai, il leader della marina happo"
+        },
+        {
+          "num": "772",
+          "title": "Cavolish e Barto"
+        },
+        {
+          "num": "773",
+          "title": "Metà e metà"
+        },
+        {
+          "num": "774",
+          "title": "Leo, il capo dei guerrieri Tontatta"
+        },
+        {
+          "num": "775",
+          "title": "Dare tutto il mio amore a Lucian"
+        }
+      ]
+    },
+    {
+      "number": "078",
+      "chapters": [
+        {
+          "num": "776",
+          "title": "L'eroe del colosseo"
+        },
+        {
+          "num": "777",
+          "title": "Zoro vs Pica"
+        },
+        {
+          "num": "778",
+          "title": "Ipotesi numero 5"
+        },
+        {
+          "num": "779",
+          "title": "Lo scontro finale"
+        },
+        {
+          "num": "780",
+          "title": "La maledizione del cuore"
+        },
+        {
+          "num": "781",
+          "title": "Il desiderio tanto atteso"
+        },
+        {
+          "num": "782",
+          "title": "Il fascino del male"
+        },
+        {
+          "num": "783",
+          "title": "Intralciare la mia strada"
+        },
+        {
+          "num": "784",
+          "title": "Gear Fourth"
+        },
+        {
+          "num": "785",
+          "title": "Anche con le gambe spezzate"
+        }
+      ]
+    },
+    {
+      "number": "079",
+      "chapters": [
+        {
+          "num": "786",
+          "title": "Gatz"
+        },
+        {
+          "num": "787",
+          "title": "4 minuti prima"
+        },
+        {
+          "num": "788",
+          "title": "La mia battaglia"
+        },
+        {
+          "num": "789",
+          "title": "Lucy"
+        },
+        {
+          "num": "790",
+          "title": "Cielo e Terra"
+        },
+        {
+          "num": "791",
+          "title": "Macerie"
+        },
+        {
+          "num": "792",
+          "title": "Inchino"
+        },
+        {
+          "num": "793",
+          "title": "La tigre e il cane"
+        },
+        {
+          "num": "794",
+          "title": "L'avventura di Sabo"
+        },
+        {
+          "num": "795",
+          "title": "Suicidio"
+        }
+      ]
+    },
+    {
+      "number": "080",
+      "chapters": [
+        {
+          "num": "796",
+          "title": "La decisione del soldato"
+        },
+        {
+          "num": "797",
+          "title": "Rebecca"
+        },
+        {
+          "num": "798",
+          "title": "Cuore"
+        },
+        {
+          "num": "799",
+          "title": "Padre e figli"
+        },
+        {
+          "num": "800",
+          "title": "Scambiare le tazze di sake"
+        },
+        {
+          "num": "801",
+          "title": "Si alzi il sipario!"
+        },
+        {
+          "num": "802",
+          "title": "Zou"
+        },
+        {
+          "num": "803",
+          "title": "Scalando l'elefante"
+        },
+        {
+          "num": "804",
+          "title": "Avventura sul dorso dell'elefante"
+        },
+        {
+          "num": "805",
+          "title": "La razza dei visoni"
+        },
+        {
+          "num": "806",
+          "title": "Alla fortezza dell'addome destro"
+        }
+      ]
+    },
+    {
+      "number": "081",
+      "chapters": [
+        {
+          "num": "807",
+          "title": "10 giorni prima"
+        },
+        {
+          "num": "808",
+          "title": "Il duca Canistrice"
+        },
+        {
+          "num": "809",
+          "title": "Il grande Gattovipera"
+        },
+        {
+          "num": "810",
+          "title": "L'arrivo della ciurma di Sopracciglio di Paglia"
+        },
+        {
+          "num": "811",
+          "title": "Roko"
+        },
+        {
+          "num": "812",
+          "title": "Capone ''Gang'' Bege"
+        },
+        {
+          "num": "813",
+          "title": "Un invito al Tea Party"
+        },
+        {
+          "num": "814",
+          "title": "Andiamo a incontrare il Grande Gattovipera!"
+        },
+        {
+          "num": "815",
+          "title": "Portami con te!"
+        },
+        {
+          "num": "816",
+          "title": "Cane contro Gatto"
+        }
+      ]
+    },
+    {
+      "number": "082",
+      "chapters": [
+        {
+          "num": "817",
+          "title": "Raizo della nebbia"
+        },
+        {
+          "num": "818",
+          "title": "Dentro la balena"
+        },
+        {
+          "num": "819",
+          "title": "Momonosuke, erede del clan Kozuki"
+        },
+        {
+          "num": "820",
+          "title": "La storia di Cane e Gatto"
+        },
+        {
+          "num": "821",
+          "title": "Ricevuto"
+        },
+        {
+          "num": "822",
+          "title": "Scendendo dall'elefante"
+        },
+        {
+          "num": "823",
+          "title": "Un mondo vivace"
+        },
+        {
+          "num": "824",
+          "title": "Giochetti da pirata"
+        },
+        {
+          "num": "825",
+          "title": "La storia illustrata del ''We Times''"
+        },
+        {
+          "num": "826",
+          "title": "0 e 4"
+        },
+        {
+          "num": "827",
+          "title": "Totland"
+        }
+      ]
+    },
+    {
+      "number": "083",
+      "chapters": [
+        {
+          "num": "828",
+          "title": "1 e 2"
+        },
+        {
+          "num": "829",
+          "title": "L'imperatrice Charlotte Linlin"
+        },
+        {
+          "num": "830",
+          "title": "L'uomo su cui scommettono tutti"
+        },
+        {
+          "num": "831",
+          "title": "Avventura nella foresta misteriosa"
+        },
+        {
+          "num": "832",
+          "title": "Regno Germa"
+        },
+        {
+          "num": "833",
+          "title": "Vinsmoke Judge"
+        },
+        {
+          "num": "834",
+          "title": "Il mio sogno"
+        },
+        {
+          "num": "835",
+          "title": "Il paese delle anime"
+        },
+        {
+          "num": "836",
+          "title": "La vivre card che mi ha dato Laura"
+        },
+        {
+          "num": "837",
+          "title": "Rufy vs il comandante Cracker"
+        },
+        {
+          "num": "838",
+          "title": "Fropper"
+        }
+      ]
+    },
+    {
+      "number": "084",
+      "chapters": [
+        {
+          "num": "839",
+          "title": "Grazie per tutto quello che hai fatto per me"
+        },
+        {
+          "num": "840",
+          "title": "Maschera di ferro"
+        },
+        {
+          "num": "841",
+          "title": "Verso il Mare Orientale"
+        },
+        {
+          "num": "842",
+          "title": "Il potere di uno stomaco pieno"
+        },
+        {
+          "num": "843",
+          "title": "Vinsmoke Sanji"
+        },
+        {
+          "num": "844",
+          "title": "Rufy contro Sanji"
+        },
+        {
+          "num": "845",
+          "title": "L'esercito infuriato"
+        },
+        {
+          "num": "846",
+          "title": "La custodia di Tamago"
+        },
+        {
+          "num": "847",
+          "title": "Rufy e Big Mom"
+        },
+        {
+          "num": "848",
+          "title": "Addio"
+        }
+      ]
+    },
+    {
+      "number": "085",
+      "chapters": [
+        {
+          "num": "849",
+          "title": "Fropper nel mondo specchio"
+        },
+        {
+          "num": "850",
+          "title": "Raggio di speranza"
+        },
+        {
+          "num": "851",
+          "title": "Mozzicone"
+        },
+        {
+          "num": "852",
+          "title": "Il fallimento del Germa"
+        },
+        {
+          "num": "853",
+          "title": "Non qui!"
+        },
+        {
+          "num": "854",
+          "title": "Che diavolo sto facendo?!"
+        },
+        {
+          "num": "855",
+          "title": "Grrrooowwwlll!"
+        },
+        {
+          "num": "856",
+          "title": "Bugiardo"
+        },
+        {
+          "num": "857",
+          "title": "Torre"
+        },
+        {
+          "num": "858",
+          "title": "L'incontro"
+        }
+      ]
+    },
+    {
+      "number": "086",
+      "chapters": [
+        {
+          "num": "859",
+          "title": "Il piano di assassinio dell'imperatrice"
+        },
+        {
+          "num": "860",
+          "title": "Il party inizia alle 10"
+        },
+        {
+          "num": "861",
+          "title": "L'attore consumato"
+        },
+        {
+          "num": "862",
+          "title": "Un tipo intelligente"
+        },
+        {
+          "num": "863",
+          "title": "Il perfetto gentiluomo"
+        },
+        {
+          "num": "864",
+          "title": "Il piano per il massacro della Famiglia Vinsmoke"
+        },
+        {
+          "num": "865",
+          "title": "Ehy, madre"
+        },
+        {
+          "num": "866",
+          "title": "Nata per distruggere"
+        },
+        {
+          "num": "867",
+          "title": "Buon compleanno"
+        },
+        {
+          "num": "868",
+          "title": "KX Launcher"
+        },
+        {
+          "num": "869",
+          "title": "Sotto assedio"
+        }
+      ]
+    },
+    {
+      "number": "087",
+      "chapters": [
+        {
+          "num": "870",
+          "title": "Commiato"
+        },
+        {
+          "num": "871",
+          "title": "Forza, Caesar!"
+        },
+        {
+          "num": "872",
+          "title": "Soffice e cremoso"
+        },
+        {
+          "num": "873",
+          "title": "Come dolci in trappola"
+        },
+        {
+          "num": "874",
+          "title": "King Baum"
+        },
+        {
+          "num": "875",
+          "title": "L'onore di una donna"
+        },
+        {
+          "num": "876",
+          "title": "Pudding appare per caso!"
+        },
+        {
+          "num": "877",
+          "title": "Non sono così dolce"
+        },
+        {
+          "num": "878",
+          "title": "Tribù dei visoni, il capo dei guardiani Pedro"
+        },
+        {
+          "num": "879",
+          "title": "Katakuri, uno dei tre dolci comandanti di Big Mom"
+        }
+      ]
+    },
+    {
+      "number": "088",
+      "chapters": [
+        {
+          "num": "880",
+          "title": "Nessuna via di fuga"
+        },
+        {
+          "num": "881",
+          "title": "La stanza dell'onda"
+        },
+        {
+          "num": "882",
+          "title": "Oltre le aspettative di un imperatore"
+        },
+        {
+          "num": "883",
+          "title": "Merenda"
+        },
+        {
+          "num": "884",
+          "title": "Chi sarebbe?"
+        },
+        {
+          "num": "885",
+          "title": "Mi chiamo Brulee!"
+        },
+        {
+          "num": "886",
+          "title": "Queshto e' il mio modo di vivere!"
+        },
+        {
+          "num": "887",
+          "title": "Da qualche parte, c'e' qualcuno che desidera la tua felicità"
+        },
+        {
+          "num": "888",
+          "title": "Leone"
+        },
+        {
+          "num": "889",
+          "title": "Una mama mai vista prima"
+        }
+      ]
+    },
+    {
+      "number": "089",
+      "chapters": [
+        {
+          "num": "890",
+          "title": "Big Mom sulla nave"
+        },
+        {
+          "num": "891",
+          "title": "Credono in me!"
+        },
+        {
+          "num": "892",
+          "title": "Riconoscere un nemico potente"
+        },
+        {
+          "num": "893",
+          "title": "La trentaseiesima figlia della famiglia Charlotte, Flambe'"
+        },
+        {
+          "num": "894",
+          "title": "Mezzanotte e cinque minuti"
+        },
+        {
+          "num": "895",
+          "title": "Il pirata Rufy contro il dolce comandante"
+        },
+        {
+          "num": "896",
+          "title": "L'ultima richiesta"
+        },
+        {
+          "num": "897",
+          "title": "Il piano di fuga da Cacao Island di Pekoms"
+        },
+        {
+          "num": "898",
+          "title": "Torneremo di sicuro"
+        },
+        {
+          "num": "899",
+          "title": "L'ultima resistenza"
+        },
+        {
+          "num": "900",
+          "title": "Musical dalla brutta fine"
+        }
+      ]
+    },
+    {
+      "number": "090",
+      "chapters": [
+        {
+          "num": "901",
+          "title": "Anche se dovessi morire, non morire!"
+        },
+        {
+          "num": "902",
+          "title": "Titoli di coda"
+        },
+        {
+          "num": "903",
+          "title": "Il quinto imperatore"
+        },
+        {
+          "num": "904",
+          "title": "L'arrivo dei comandanti dell'armata rivoluzionaria"
+        },
+        {
+          "num": "905",
+          "title": "Un mondo meraviglioso"
+        },
+        {
+          "num": "906",
+          "title": "La terra santa Mary Geoise"
+        },
+        {
+          "num": "907",
+          "title": "Il trono vuoto"
+        },
+        {
+          "num": "908",
+          "title": "Inizia il Reverie"
+        },
+        {
+          "num": "909",
+          "title": "Seppuku"
+        },
+        {
+          "num": "910",
+          "title": "Verso il paese di Wa"
+        }
+      ]
+    },
+    {
+      "number": "091",
+      "chapters": [
+        {
+          "num": "911",
+          "title": "Una grande avventura nella terra dei samurai!"
+        },
+        {
+          "num": "912",
+          "title": "Il Villaggio Amigasa"
+        },
+        {
+          "num": "913",
+          "title": "Tsuru ricambia il favore"
+        },
+        {
+          "num": "914",
+          "title": "Okobore, la città in rovina"
+        },
+        {
+          "num": "915",
+          "title": "Bakura Town"
+        },
+        {
+          "num": "916",
+          "title": "Un grande incontro di sumo nel paese di Wa"
+        },
+        {
+          "num": "917",
+          "title": "La nave tesoro delle provviste"
+        },
+        {
+          "num": "918",
+          "title": "Luffytaro ripaga il favore"
+        },
+        {
+          "num": "919",
+          "title": "Le rovine del castello di Oden"
+        },
+        {
+          "num": "920",
+          "title": "Amo Oden"
+        },
+        {
+          "num": "921",
+          "title": "Shutenmaru"
+        }
+      ]
+    },
+    {
+      "number": "092",
+      "chapters": [
+        {
+          "num": "922",
+          "title": "Governatore generale dei pirati delle cento bestie: Kaido"
+        },
+        {
+          "num": "923",
+          "title": "L'imperatore Kaido contro Luffy"
+        },
+        {
+          "num": "924",
+          "title": "Ha"
+        },
+        {
+          "num": "925",
+          "title": "Il vuoto"
+        },
+        {
+          "num": "926",
+          "title": "La miniera dei prigionieri"
+        },
+        {
+          "num": "927",
+          "title": "O-Toko, la kamuro"
+        },
+        {
+          "num": "928",
+          "title": "La cortigiana Komurasaki entra in scena"
+        },
+        {
+          "num": "929",
+          "title": "Kurozumi Orochi, Shogun del paese di Wa"
+        },
+        {
+          "num": "930",
+          "title": "La città di Ebisu"
+        },
+        {
+          "num": "931",
+          "title": "O-Soba Mask"
+        }
+      ]
+    },
+    {
+      "number": "093",
+      "chapters": [
+        {
+          "num": "932",
+          "title": "Lo Shogun e la Cortigiana"
+        },
+        {
+          "num": "933",
+          "title": "La pietà di un samurai"
+        },
+        {
+          "num": "934",
+          "title": "Hyogoro il fiore"
+        },
+        {
+          "num": "935",
+          "title": "Queen"
+        },
+        {
+          "num": "936",
+          "title": "Il gran torneo sumo inferno"
+        },
+        {
+          "num": "937",
+          "title": "Gyukimaru sul ponte Oihagi"
+        },
+        {
+          "num": "938",
+          "title": "Il segreto di una donna"
+        },
+        {
+          "num": "939",
+          "title": "Gli artigli di un vecchio lupo sono sempre affilati"
+        },
+        {
+          "num": "940",
+          "title": "La scintilla della rivolta"
+        },
+        {
+          "num": "941",
+          "title": "Il più amato della città di Ebisu"
+        },
+        {
+          "num": "942",
+          "title": "Yasuie Shimotuski, il daimyo di Hakumai"
+        }
+      ]
+    },
+    {
+      "number": "094",
+      "chapters": [
+        {
+          "num": "943",
+          "title": "Gli Smile"
+        },
+        {
+          "num": "944",
+          "title": "Compagno"
+        },
+        {
+          "num": "945",
+          "title": "O-Lin"
+        },
+        {
+          "num": "946",
+          "title": "Queen vs O-Lin"
+        },
+        {
+          "num": "947",
+          "title": "La scommessa di Queen"
+        },
+        {
+          "num": "948",
+          "title": "Arriva Kawamatsu il kappa"
+        },
+        {
+          "num": "949",
+          "title": "Mummia"
+        },
+        {
+          "num": "950",
+          "title": "I sogni dei guerrieri"
+        },
+        {
+          "num": "951",
+          "title": "Furia"
+        },
+        {
+          "num": "952",
+          "title": "Hiyori e Kawamatsu"
+        },
+        {
+          "num": "953",
+          "title": "La volpe dal singolo travestimento"
+        }
+      ]
+    },
+    {
+      "number": "095",
+      "chapters": [
+        {
+          "num": "954",
+          "title": "Come mettere le ali ad un drago"
+        },
+        {
+          "num": "955",
+          "title": "Enma"
+        },
+        {
+          "num": "956",
+          "title": "Big News"
+        },
+        {
+          "num": "957",
+          "title": "Ultimate"
+        },
+        {
+          "num": "958",
+          "title": "Il porto promesso"
+        },
+        {
+          "num": "959",
+          "title": "Samurai"
+        },
+        {
+          "num": "960",
+          "title": "Entra in scena Kozuki Oden"
+        },
+        {
+          "num": "961",
+          "title": "L'incidente dello spirito della montagna"
+        },
+        {
+          "num": "962",
+          "title": "Il Daimyo e i suoi vassalli"
+        },
+        {
+          "num": "963",
+          "title": "Diventare un samurai"
+        },
+        {
+          "num": "964",
+          "title": "L'avventura di Oden"
+        }
+      ]
+    },
+    {
+      "number": "096",
+      "chapters": [
+        {
+          "num": "965",
+          "title": "La congiura del clan Kurozumi"
+        },
+        {
+          "num": "966",
+          "title": "Roger e Barbabianca"
+        },
+        {
+          "num": "967",
+          "title": "L'avventura di Roger"
+        },
+        {
+          "num": "968",
+          "title": "Il ritorno di Oden"
+        },
+        {
+          "num": "969",
+          "title": "Il lord tonto"
+        },
+        {
+          "num": "970",
+          "title": "Oden vs Kaido"
+        },
+        {
+          "num": "971",
+          "title": "Bolliti vivi"
+        },
+        {
+          "num": "972",
+          "title": "Io sono Oden! Nato per bollire!"
+        },
+        {
+          "num": "973",
+          "title": "Il clan Kozuki"
+        },
+        {
+          "num": "974",
+          "title": "Verso Onigashima!"
+        }
+      ]
+    },
+    {
+      "number": "097",
+      "chapters": [
+        {
+          "num": "975",
+          "title": "Il piano di Kin'emon"
+        },
+        {
+          "num": "976",
+          "title": "Lasciate che mi presenti"
+        },
+        {
+          "num": "977",
+          "title": "La festa non inizia ora"
+        },
+        {
+          "num": "978",
+          "title": "Entrano in scena i sei volanti"
+        },
+        {
+          "num": "979",
+          "title": "Problemi familiari"
+        },
+        {
+          "num": "980",
+          "title": "Musica da combattimento"
+        },
+        {
+          "num": "981",
+          "title": "Scontro"
+        },
+        {
+          "num": "982",
+          "title": "Da ruffiano a ruffiano"
+        },
+        {
+          "num": "983",
+          "title": "Tuono"
+        },
+        {
+          "num": "984",
+          "title": "La mia rabbia"
+        }
+      ]
+    },
+    {
+      "number": "098",
+      "chapters": [
+        {
+          "num": "985",
+          "title": "Il progetto nuova Onigashima"
+        },
+        {
+          "num": "986",
+          "title": "Il mio nome"
+        },
+        {
+          "num": "987",
+          "title": "La raffinata veste del vassallo"
+        },
+        {
+          "num": "988",
+          "title": "Scusate il ritardo"
+        },
+        {
+          "num": "989",
+          "title": "Per qualche motivo, non mi sento come se stessimo perdendo"
+        },
+        {
+          "num": "990",
+          "title": "Agente solitario"
+        },
+        {
+          "num": "991",
+          "title": "Lasciaci morire!"
+        },
+        {
+          "num": "992",
+          "title": "Resti"
+        },
+        {
+          "num": "993",
+          "title": "Il sogno di Wano"
+        },
+        {
+          "num": "994",
+          "title": "Puoi chiamarmi Yamato"
+        }
+      ]
+    },
+    {
+      "number": "099",
+      "chapters": [
+        {
+          "num": "995",
+          "title": "Il giuramento della Kunoichi"
+        },
+        {
+          "num": "996",
+          "title": "L'isola del più forte"
+        },
+        {
+          "num": "997",
+          "title": "Fiamme"
+        },
+        {
+          "num": "998",
+          "title": "Gli Zoan ancestrali"
+        },
+        {
+          "num": "999",
+          "title": "Il sake che ho distillato per bere con te"
+        },
+        {
+          "num": "1000",
+          "title": "Rufy ''Cappello di paglia''"
+        },
+        {
+          "num": "1001",
+          "title": "La battaglia decisiva dei mostri di Onigashima"
+        },
+        {
+          "num": "1002",
+          "title": "Imperatori vs nuova generazione"
+        },
+        {
+          "num": "1003",
+          "title": "La notte su una tavola di Go"
+        },
+        {
+          "num": "1004",
+          "title": "Kibi dango"
+        }
+      ]
+    },
+    {
+      "number": "100",
+      "chapters": [
+        {
+          "num": "1005",
+          "title": "La bambina demoniaca"
+        },
+        {
+          "num": "1006",
+          "title": "L'onorevole ''Hyogoro dei fiori''"
+        },
+        {
+          "num": "1007",
+          "title": "Il signor Tanuki"
+        },
+        {
+          "num": "1008",
+          "title": "Ashura Doji, capo dei banditi del monte atama"
+        },
+        {
+          "num": "1009",
+          "title": "Inferno"
+        },
+        {
+          "num": "1010",
+          "title": "Tonalità del re conquistatore"
+        },
+        {
+          "num": "1011",
+          "title": "Il codice morale dei fagioli rossi"
+        },
+        {
+          "num": "1012",
+          "title": "Fremere"
+        },
+        {
+          "num": "1013",
+          "title": "Anarchy in the BM"
+        },
+        {
+          "num": "1014",
+          "title": "L'attorucolo di una vita intera"
+        },
+        {
+          "num": "1015",
+          "title": "Catene"
+        }
+      ]
+    },
+    {
+      "number": "101",
+      "chapters": [
+        {
+          "num": "1016",
+          "title": "Qui parla Tama!"
+        },
+        {
+          "num": "1017",
+          "title": "Ordini"
+        },
+        {
+          "num": "1018",
+          "title": "Jinbe vs Who's Who"
+        },
+        {
+          "num": "1019",
+          "title": "Heliceratops"
+        },
+        {
+          "num": "1020",
+          "title": "Robin vs Black Maria"
+        },
+        {
+          "num": "1021",
+          "title": "Demonio"
+        },
+        {
+          "num": "1022",
+          "title": "Le stelle si prendono la scena!"
+        },
+        {
+          "num": "1023",
+          "title": "Due gocce d'acqua"
+        },
+        {
+          "num": "1024",
+          "title": "Un tale"
+        },
+        {
+          "num": "1025",
+          "title": "Draghi gemelli"
+        }
+      ]
+    },
+    {
+      "number": "102",
+      "chapters": [
+        {
+          "num": "1026",
+          "title": "La resa dei conti"
+        },
+        {
+          "num": "1027",
+          "title": "Un problema oltre ogni immaginazione"
+        },
+        {
+          "num": "1028",
+          "title": "Brachioserperus"
+        },
+        {
+          "num": "1029",
+          "title": "La torre"
+        },
+        {
+          "num": "1030",
+          "title": "L'eco dell'impermanenza di tutte le cose"
+        },
+        {
+          "num": "1031",
+          "title": "Il guerriero della scienza"
+        },
+        {
+          "num": "1032",
+          "title": "La spada preferita di Oden"
+        },
+        {
+          "num": "1033",
+          "title": "Shimotsuki Kouzaburou"
+        },
+        {
+          "num": "1034",
+          "title": "Sanji vs. Queen"
+        },
+        {
+          "num": "1035",
+          "title": "Zoro vs. King"
+        }
+      ]
+    },
+    {
+      "number": "103",
+      "chapters": [
+        {
+          "num": "1036",
+          "title": "Il bushido è la ricerca della morte"
+        },
+        {
+          "num": "1037",
+          "title": "Otto trigrammi, drago alcolizzato"
+        },
+        {
+          "num": "1038",
+          "title": "Kidd & Law vs. Big Mom"
+        },
+        {
+          "num": "1039",
+          "title": "Ruolo di chiusura"
+        },
+        {
+          "num": "1040",
+          "title": "Le ultime preghiere davanti a dei mocciosi"
+        },
+        {
+          "num": "1041",
+          "title": "Komurasaki"
+        },
+        {
+          "num": "1042",
+          "title": "Forte non vuol dire vincitore"
+        },
+        {
+          "num": "1043",
+          "title": "Fino alla nostra morte!"
+        },
+        {
+          "num": "1044",
+          "title": "Il guerriero della liberazione"
+        },
+        {
+          "num": "1045",
+          "title": "Il livello successivo"
+        },
+        {
+          "num": "1046",
+          "title": "Raizo"
+        }
+      ]
+    },
+    {
+      "number": "104",
+      "chapters": [
+        {
+          "num": "1047",
+          "title": "Il cielo della capitale"
+        },
+        {
+          "num": "1048",
+          "title": "Vent'anni"
+        },
+        {
+          "num": "1049",
+          "title": "Il mondo a cui aspirare"
+        },
+        {
+          "num": "1050",
+          "title": "Onore"
+        },
+        {
+          "num": "1051",
+          "title": "Kozuki Momonosuke, lo shogun di Wano"
+        },
+        {
+          "num": "1052",
+          "title": "Una nuova mattina"
+        },
+        {
+          "num": "1053",
+          "title": "I nuovi sovrani"
+        },
+        {
+          "num": "1054",
+          "title": "Imperatore fiammante"
+        },
+        {
+          "num": "1055",
+          "title": "La nuova era"
+        }
+      ]
+    },
+    {
+      "number": "105",
+      "chapters": [
+        {
+          "num": "1056",
+          "title": "Cross Guild"
+        },
+        {
+          "num": "1057",
+          "title": "Fine"
+        },
+        {
+          "num": "1058",
+          "title": "Il nuovo sovrano"
+        },
+        {
+          "num": "1059",
+          "title": "Ciò che è accaduto al capitano Koby"
+        },
+        {
+          "num": "1060",
+          "title": "Il sogno di Rufy"
+        },
+        {
+          "num": "1061",
+          "title": "Egghead, l'isola del futuro"
+        },
+        {
+          "num": "1062",
+          "title": "Avventura nel paese della scienza"
+        },
+        {
+          "num": "1063",
+          "title": "Tutto ciò che resta della mia famiglia"
+        },
+        {
+          "num": "1064",
+          "title": "Egghead Labo Phase"
+        },
+        {
+          "num": "1065",
+          "title": "I sei Vegapunk"
+        }
+      ]
+    }
+  ]
+}
