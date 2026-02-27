@@ -2,8 +2,10 @@
 import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import chaptersData from '../data/chapters.json'
+import { useBookmark } from '../composables/useBookmark'
 
 const route = useRoute()
+const { save: saveBookmark, load: loadBookmark } = useBookmark()
 const router = useRouter()
 const volumeNum = ref('')
 const chapterNum = ref('')
@@ -76,7 +78,13 @@ onMounted(async () => {
     if (totalPages.value === 0) {
       error.value = 'Nessuna pagina trovata per questo capitolo'
     } else {
-      currentPage.value = 1
+      const vol = String(volumeNum.value).padStart(3, '0')
+      const ch = String(chapterNum.value)
+      const pageFromQuery = route.query.page ? parseInt(route.query.page, 10) : null
+      const bookmark = await loadBookmark()
+      const bookmarkPage = (bookmark?.volumeNum === vol && bookmark?.chapterNum === ch) ? bookmark.page : null
+      const initialPage = Math.min(Math.max(1, pageFromQuery ?? bookmarkPage ?? 1), totalPages.value)
+      currentPage.value = initialPage
     }
   } catch (e) {
     error.value = 'Errore nel caricamento delle pagine'
@@ -87,7 +95,13 @@ onMounted(async () => {
 })
 
 watch(currentPage, (page) => {
-  if (totalPages.value > 0) preloadPages(page + 1)
+  if (totalPages.value > 0) {
+    preloadPages(page + 1)
+    const vol = String(volumeNum.value).padStart(3, '0')
+    const ch = String(chapterNum.value)
+    const chData = chaptersData.volumes?.flatMap(v => v.chapters || []).find(c => String(c.num) === ch)
+    saveBookmark({ volumeNum: vol, chapterNum: ch, page, chapterTitle: chData?.title })
+  }
 })
 
 watch(() => [route.params.volumeNum, route.params.chapterNum], async ([newVol, newNum]) => {
@@ -100,7 +114,12 @@ watch(() => [route.params.volumeNum, route.params.chapterNum], async ([newVol, n
       const p = await discoverPages()
       pages.value = p
       totalPages.value = p.length
-      currentPage.value = 1
+      const vol = String(newVol).padStart(3, '0')
+      const ch = String(newNum)
+      const pageFromQuery = route.query.page ? parseInt(route.query.page, 10) : null
+      const bookmark = await loadBookmark()
+      const bookmarkPage = (bookmark?.volumeNum === vol && bookmark?.chapterNum === ch) ? bookmark.page : null
+      currentPage.value = Math.min(Math.max(1, pageFromQuery ?? bookmarkPage ?? 1), p.length)
       if (totalPages.value === 0) error.value = 'Nessuna pagina trovata'
     } catch (e) {
       error.value = 'Errore nel caricamento'
