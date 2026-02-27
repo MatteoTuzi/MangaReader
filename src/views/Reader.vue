@@ -1,12 +1,15 @@
 <script setup>
 import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import chaptersData from '../data/chapters.json'
+import { useMangaLibrary } from '../composables/useMangaLibrary'
 import { useBookmark } from '../composables/useBookmark'
 
 const route = useRoute()
-const { save: saveBookmark, load: loadBookmark } = useBookmark()
 const router = useRouter()
+const { getManga, loadManga } = useMangaLibrary()
+const { save: saveBookmark, load: loadBookmark } = useBookmark()
+const mangaId = ref(route.params.mangaId)
+const manga = ref(null)
 const volumeNum = ref('')
 const chapterNum = ref('')
 const currentPage = ref(1)
@@ -15,12 +18,40 @@ const pages = ref([])
 const loading = ref(true)
 const error = ref(null)
 
-const baseUrl = computed(() => chaptersData.baseUrl || 'https://onepiecepower.com/manga8/onepiece/volumiSpeciali/volumiColored')
+const baseUrl = computed(() => manga.value?.baseUrl || '')
+
+/** Trova il capitolo corrente nei volumi per ottenere chapterId/volumeId (pattern chapterId) */
+const currentChapterData = computed(() => {
+  const m = manga.value
+  if (!m?.volumes) return null
+  const vol = m.volumes.find(v => String(v.number).padStart(3, '0') === String(volumeNum.value).padStart(3, '0'))
+  if (!vol?.chapters) return null
+  return vol.chapters.find(c => String(c.num) === String(chapterNum.value)) || null
+})
 
 function getImageUrl(page) {
-  const vol = String(volumeNum.value).padStart(3, '0')
+  const base = baseUrl.value
   const pageStr = String(page).padStart(2, '0')
-  return `${baseUrl.value}/volume${vol}/${chapterNum.value}/${pageStr}.jpg`
+  const pattern = manga.value?.urlPattern || 'volume'
+
+  if (pattern === 'reader') {
+    return `${base}/reader/${chapterNum.value}/${pageStr}.jpg`
+  }
+
+  if (pattern === 'chapterId') {
+    const ch = currentChapterData.value
+    const vol = manga.value?.volumes?.find(v => String(v.number).padStart(3, '0') === String(volumeNum.value).padStart(3, '0'))
+    if (!ch?.chapterId || !vol?.volumeId || !manga.value?.mangaSlug) return ''
+    const mangaSlug = manga.value.mangaSlug
+    const volNum = (String(volumeNum.value).replace(/^0+/, '') || '0').padStart(2, '0')
+    const chNum = String(chapterNum.value).padStart(4, '0')
+    const chapterSlugPrefix = manga.value.chapterSlugPrefix || 'capitolo'
+    const pageFmt = manga.value?.pageFormat !== 'padded' ? String(page) : String(page).padStart(2, '0')
+    return `${base}/${mangaSlug}/volume-${volNum}-${vol.volumeId}/${chapterSlugPrefix}-${chNum}-${ch.chapterId}/${pageFmt}.jpg`
+  }
+
+  const vol = String(volumeNum.value).padStart(3, '0')
+  return `${base}/volume${vol}/${chapterNum.value}/${pageStr}.jpg`
 }
 
 const BATCH_SIZE = 10
@@ -66,10 +97,25 @@ function preloadPages(fromPage) {
 }
 
 onMounted(async () => {
+  mangaId.value = route.params.mangaId
+  await loadManga()
+  manga.value = getManga(mangaId.value)
   volumeNum.value = route.params.volumeNum
   chapterNum.value = route.params.chapterNum
   loading.value = true
   error.value = null
+
+  if (!manga.value?.baseUrl) {
+    error.value = 'Manga non trovato'
+    loading.value = false
+    return
+  }
+
+  if (manga.value?.urlPattern === 'chapterId' && !currentChapterData.value) {
+    error.value = 'Capitolo non trovato (manca chapterId nel JSON)'
+    loading.value = false
+    return
+  }
 
   try {
     const p = await discoverPages()
@@ -81,7 +127,7 @@ onMounted(async () => {
       const vol = String(volumeNum.value).padStart(3, '0')
       const ch = String(chapterNum.value)
       const pageFromQuery = route.query.page ? parseInt(route.query.page, 10) : null
-      const bookmark = await loadBookmark()
+      const bookmark = await loadBookmark(mangaId.value)
       const bookmarkPage = (bookmark?.volumeNum === vol && bookmark?.chapterNum === ch) ? bookmark.page : null
       const initialPage = Math.min(Math.max(1, pageFromQuery ?? bookmarkPage ?? 1), totalPages.value)
       currentPage.value = initialPage
@@ -94,22 +140,38 @@ onMounted(async () => {
   window.addEventListener('keydown', onKeydown)
 })
 
-watch(currentPage, (page) => {
+function getChapterTitle() {
+  const ch = String(chapterNum.value)
+  return manga.value?.volumes?.flatMap(v => v.chapters || []).find(c => String(c.num) === ch)?.title
+}
+
+watch(currentPage, () => {
   if (totalPages.value > 0) {
-    preloadPages(page + 1)
+    preloadPages(currentPage.value + 1)
     const vol = String(volumeNum.value).padStart(3, '0')
     const ch = String(chapterNum.value)
-    const chData = chaptersData.volumes?.flatMap(v => v.chapters || []).find(c => String(c.num) === ch)
-    saveBookmark({ volumeNum: vol, chapterNum: ch, page, chapterTitle: chData?.title })
+    saveBookmark({ mangaId: mangaId.value, volumeNum: vol, chapterNum: ch, page: currentPage.value, chapterTitle: getChapterTitle() })
   }
 })
 
-watch(() => [route.params.volumeNum, route.params.chapterNum], async ([newVol, newNum]) => {
+watch(() => [route.params.mangaId, route.params.volumeNum, route.params.chapterNum], async ([newMangaId, newVol, newNum]) => {
+  if (newMangaId) mangaId.value = newMangaId
   if ((newVol && newVol !== volumeNum.value) || (newNum && newNum !== chapterNum.value)) {
+    manga.value = getManga(mangaId.value)
     volumeNum.value = newVol
     chapterNum.value = newNum
     loading.value = true
     error.value = null
+    if (!manga.value?.baseUrl) {
+      error.value = 'Manga non trovato'
+      loading.value = false
+      return
+    }
+    if (manga.value?.urlPattern === 'chapterId' && !currentChapterData.value) {
+      error.value = 'Capitolo non trovato (manca chapterId nel JSON)'
+      loading.value = false
+      return
+    }
     try {
       const p = await discoverPages()
       pages.value = p
@@ -117,7 +179,7 @@ watch(() => [route.params.volumeNum, route.params.chapterNum], async ([newVol, n
       const vol = String(newVol).padStart(3, '0')
       const ch = String(newNum)
       const pageFromQuery = route.query.page ? parseInt(route.query.page, 10) : null
-      const bookmark = await loadBookmark()
+      const bookmark = await loadBookmark(mangaId.value)
       const bookmarkPage = (bookmark?.volumeNum === vol && bookmark?.chapterNum === ch) ? bookmark.page : null
       currentPage.value = Math.min(Math.max(1, pageFromQuery ?? bookmarkPage ?? 1), p.length)
       if (totalPages.value === 0) error.value = 'Nessuna pagina trovata'
@@ -151,7 +213,7 @@ function nextPage() {
 }
 
 function goBack() {
-  router.push({ name: 'volumes' })
+  router.push({ name: 'chapters', params: { mangaId: mangaId.value, volumeNum: volumeNum.value } })
 }
 
 function goToPage(p) {
@@ -182,7 +244,7 @@ onUnmounted(() => {
 
     <div v-else-if="error" class="error-state">
       <p>{{ error }}</p>
-      <button class="back-btn" @click="goBack">Torna ai volumi</button>
+      <button class="back-btn" @click="goBack">Torna ai capitoli</button>
     </div>
 
     <div v-else class="reader-content">

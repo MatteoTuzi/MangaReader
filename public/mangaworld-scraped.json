@@ -1,0 +1,2273 @@
+{
+  "mangaTitle": "Berserk Scan ITA",
+  "baseUrl": "https://cdn.mangaworld.mx/chapters",
+  "urlPattern": "chapterId",
+  "mangaSlug": "berserk-5fb842b84c29e1099b62b0dd",
+  "pageFormat": "raw",
+  "volumes": [
+    {
+      "number": "01",
+      "volumeId": "5fb844014106670a1da64094",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da64095"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da64096"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da64097"
+        }
+      ]
+    },
+    {
+      "number": "02",
+      "volumeId": "5fb844014106670a1da64098",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da64099"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da6409a"
+        }
+      ]
+    },
+    {
+      "number": "03",
+      "volumeId": "5fb844014106670a1da6409b",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da6409c"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da6409d"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da6409e"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da6409f"
+        }
+      ]
+    },
+    {
+      "number": "04",
+      "volumeId": "5fb844014106670a1da640a0",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da640a1"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da640a2"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da640a3"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da640a4"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da640a5"
+        }
+      ]
+    },
+    {
+      "number": "05",
+      "volumeId": "5fb844014106670a1da640a6",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da640a7"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da640a8"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da640a9"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da640aa"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da640ab"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da640ac"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da640ad"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da640ae"
+        }
+      ]
+    },
+    {
+      "number": "06",
+      "volumeId": "5fb844014106670a1da640af",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da640b0"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da640b1"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da640b2"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da640b3"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da640b4"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da640b5"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da640b6"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da640b7"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da640b8"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da640b9"
+        }
+      ]
+    },
+    {
+      "number": "07",
+      "volumeId": "5fb844014106670a1da640ba",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da640bb"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da640bc"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da640bd"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da640be"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da640bf"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da640c0"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da640c1"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da640c2"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da640c3"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da640c4"
+        }
+      ]
+    },
+    {
+      "number": "08",
+      "volumeId": "5fb844014106670a1da640c5",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da640c6"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da640c7"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da640c8"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da640c9"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da640ca"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da640cb"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da640cc"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da640cd"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da640ce"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da640cf"
+        }
+      ]
+    },
+    {
+      "number": "09",
+      "volumeId": "5fb844014106670a1da640d0",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da640d1"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da640d2"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da640d3"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da640d4"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da640d5"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da640d6"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da640d7"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da640d8"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da640d9"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da640da"
+        },
+        {
+          "num": "0011",
+          "title": "Capitolo 11",
+          "chapterId": "5fb844014106670a1da640db"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "volumeId": "5fb844014106670a1da640dc",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da640dd"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da640de"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da640df"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da640e0"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da640e1"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da640e2"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da640e3"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da640e4"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da640e5"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da640e6"
+        },
+        {
+          "num": "0011",
+          "title": "Capitolo 11",
+          "chapterId": "5fb844014106670a1da640e7"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "volumeId": "5fb844014106670a1da640e8",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da640e9"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da640ea"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da640eb"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da640ec"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da640ed"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da640ee"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da640ef"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da640f0"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da640f1"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da640f2"
+        },
+        {
+          "num": "0011",
+          "title": "Capitolo 11",
+          "chapterId": "5fb844014106670a1da640f3"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "volumeId": "5fb844014106670a1da640f4",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da640f5"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da640f6"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da640f7"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da640f8"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da640f9"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da640fa"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da640fb"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da640fc"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da640fd"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da640fe"
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "volumeId": "5fb844014106670a1da640ff",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da64100"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da64101"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da64102"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da64103"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da64104"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da64105"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da64106"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da64107"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da64108"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da64109"
+        },
+        {
+          "num": "0011",
+          "title": "Capitolo 11",
+          "chapterId": "5fb844014106670a1da6410a"
+        },
+        {
+          "num": "0012",
+          "title": "Capitolo 12",
+          "chapterId": "5fb844014106670a1da6410b"
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "volumeId": "5fb844014106670a1da6410c",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da6410d"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da6410e"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da6410f"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da64110"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da64111"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da64112"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da64113"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da64114"
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "volumeId": "5fb844014106670a1da64115",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da64116"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da64117"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da64118"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da64119"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da6411a"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da6411b"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da6411c"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da6411d"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da6411e"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da6411f"
+        },
+        {
+          "num": "0011",
+          "title": "Capitolo 11",
+          "chapterId": "5fb844014106670a1da64120"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "volumeId": "5fb844014106670a1da64121",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da64122"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da64123"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da64124"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da64125"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da64126"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da64127"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da64128"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da64129"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da6412a"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da6412b"
+        },
+        {
+          "num": "0011",
+          "title": "Capitolo 11",
+          "chapterId": "5fb844014106670a1da6412c"
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "volumeId": "5fb844014106670a1da6412d",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da6412e"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da6412f"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da64130"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da64131"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da64132"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da64133"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da64134"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da64135"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da64136"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da64137"
+        },
+        {
+          "num": "0011",
+          "title": "Capitolo 11",
+          "chapterId": "5fb844014106670a1da64138"
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "volumeId": "5fb844014106670a1da64139",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da6413a"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da6413b"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da6413c"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da6413d"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da6413e"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da6413f"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da64140"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da64141"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da64142"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da64143"
+        },
+        {
+          "num": "0011",
+          "title": "Capitolo 11",
+          "chapterId": "5fb844014106670a1da64144"
+        }
+      ]
+    },
+    {
+      "number": "19",
+      "volumeId": "5fb844014106670a1da64145",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da64146"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da64147"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da64148"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da64149"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da6414a"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da6414b"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da6414c"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da6414d"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da6414e"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da6414f"
+        },
+        {
+          "num": "0011",
+          "title": "Capitolo 11",
+          "chapterId": "5fb844014106670a1da64150"
+        }
+      ]
+    },
+    {
+      "number": "20",
+      "volumeId": "5fb844014106670a1da64151",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da64152"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da64153"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da64154"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da64155"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da64156"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da64157"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da64158"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da64159"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da6415a"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da6415b"
+        },
+        {
+          "num": "0011",
+          "title": "Capitolo 11",
+          "chapterId": "5fb844014106670a1da6415c"
+        }
+      ]
+    },
+    {
+      "number": "21",
+      "volumeId": "5fb844014106670a1da6415d",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da6415e"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da6415f"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da64160"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da64161"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da64162"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da64163"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da64164"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da64165"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da64166"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da64167"
+        },
+        {
+          "num": "0011",
+          "title": "Capitolo 11",
+          "chapterId": "5fb844014106670a1da64168"
+        }
+      ]
+    },
+    {
+      "number": "22",
+      "volumeId": "5fb844014106670a1da64169",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da6416a"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da6416b"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da6416c"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da6416d"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da6416e"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da6416f"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da64170"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da64171"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da64172"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da64173"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "volumeId": "5fb844014106670a1da64174",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da64175"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da64176"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da64177"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da64178"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da64179"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da6417a"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da6417b"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da6417c"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da6417d"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da6417e"
+        }
+      ]
+    },
+    {
+      "number": "24",
+      "volumeId": "5fb844014106670a1da6417f",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da64180"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da64181"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da64182"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da64183"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da64184"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da64185"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da64186"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da64187"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da64188"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da64189"
+        }
+      ]
+    },
+    {
+      "number": "25",
+      "volumeId": "5fb844014106670a1da6418a",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da6418b"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da6418c"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da6418d"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da6418e"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da6418f"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da64190"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da64191"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da64192"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da64193"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da64194"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "volumeId": "5fb844014106670a1da64195",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da64196"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da64197"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da64198"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da64199"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da6419a"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da6419b"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da6419c"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da6419d"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da6419e"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da6419f"
+        }
+      ]
+    },
+    {
+      "number": "27",
+      "volumeId": "5fb844014106670a1da641a0",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da641a1"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da641a2"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da641a3"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da641a4"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da641a5"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da641a6"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da641a7"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da641a8"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da641a9"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da641aa"
+        }
+      ]
+    },
+    {
+      "number": "28",
+      "volumeId": "5fb844014106670a1da641ab",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da641ac"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da641ad"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da641ae"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da641af"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da641b0"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da641b1"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da641b2"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da641b3"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844014106670a1da641b4"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844014106670a1da641b5"
+        }
+      ]
+    },
+    {
+      "number": "29",
+      "volumeId": "5fb844014106670a1da641b6",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844014106670a1da641b7"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844014106670a1da641b8"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844014106670a1da641b9"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844014106670a1da641ba"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844014106670a1da641bb"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844014106670a1da641bc"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844014106670a1da641bd"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844014106670a1da641be"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844024106670a1da641bf"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844024106670a1da641c0"
+        }
+      ]
+    },
+    {
+      "number": "30",
+      "volumeId": "5fb844024106670a1da641c1",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844024106670a1da641c2"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844024106670a1da641c3"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844024106670a1da641c4"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844024106670a1da641c5"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844024106670a1da641c6"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844024106670a1da641c7"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844024106670a1da641c8"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844024106670a1da641c9"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844024106670a1da641ca"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844024106670a1da641cb"
+        }
+      ]
+    },
+    {
+      "number": "31",
+      "volumeId": "5fb844024106670a1da641cc",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844024106670a1da641cd"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844024106670a1da641ce"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844024106670a1da641cf"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844024106670a1da641d0"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844024106670a1da641d1"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844024106670a1da641d2"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844024106670a1da641d3"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844024106670a1da641d4"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844024106670a1da641d5"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844024106670a1da641d6"
+        }
+      ]
+    },
+    {
+      "number": "32",
+      "volumeId": "5fb844024106670a1da641d7",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844024106670a1da641d8"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844024106670a1da641d9"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844024106670a1da641da"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844024106670a1da641db"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844024106670a1da641dc"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844024106670a1da641dd"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844024106670a1da641de"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844024106670a1da641df"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844024106670a1da641e0"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844024106670a1da641e1"
+        }
+      ]
+    },
+    {
+      "number": "33",
+      "volumeId": "5fb8d69e5c95042989bd2601",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb8d69e5c95042989bd2602"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb8d69e5c95042989bd2603"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb8d69e5c95042989bd2604"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb8d69e5c95042989bd2605"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb8d69e5c95042989bd2606"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb8d69e5c95042989bd2607"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb8d69e5c95042989bd2608"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb8d69e5c95042989bd2609"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb8d69e5c95042989bd260a"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb8d69e5c95042989bd260b"
+        }
+      ]
+    },
+    {
+      "number": "34",
+      "volumeId": "5fb844024106670a1da641e9",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844024106670a1da641ea"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844024106670a1da641eb"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844024106670a1da641ec"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844024106670a1da641ed"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844024106670a1da641ee"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844024106670a1da641ef"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844024106670a1da641f0"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844024106670a1da641f1"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844024106670a1da641f2"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "5fb844024106670a1da641f3"
+        }
+      ]
+    },
+    {
+      "number": "35",
+      "volumeId": "5fb844024106670a1da641f4",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844024106670a1da641f5"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844024106670a1da641f6"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844024106670a1da641f7"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844024106670a1da641f8"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844024106670a1da641f9"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844024106670a1da641fa"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844024106670a1da641fb"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844024106670a1da641fc"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844024106670a1da641fd"
+        }
+      ]
+    },
+    {
+      "number": "36",
+      "volumeId": "5fb844024106670a1da641fe",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844024106670a1da641ff"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844024106670a1da64200"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844024106670a1da64201"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844024106670a1da64202"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844024106670a1da64203"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844024106670a1da64204"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844024106670a1da64205"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844024106670a1da64206"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844024106670a1da64207"
+        }
+      ]
+    },
+    {
+      "number": "37",
+      "volumeId": "5fb844024106670a1da64208",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844024106670a1da64209"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844024106670a1da6420a"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844024106670a1da6420b"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844024106670a1da6420c"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844024106670a1da6420d"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844024106670a1da6420e"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844024106670a1da6420f"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844024106670a1da64210"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844024106670a1da64211"
+        }
+      ]
+    },
+    {
+      "number": "38",
+      "volumeId": "5fb844024106670a1da64212",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844024106670a1da64213"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844024106670a1da64214"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844024106670a1da64215"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844024106670a1da64216"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844024106670a1da64217"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844024106670a1da64218"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844024106670a1da64219"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844024106670a1da6421a"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "5fb844024106670a1da6421b"
+        }
+      ]
+    },
+    {
+      "number": "39",
+      "volumeId": "5fb844024106670a1da6421c",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844024106670a1da6421d"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844024106670a1da6421e"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844024106670a1da6421f"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844024106670a1da64220"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844024106670a1da64221"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844024106670a1da64222"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844024106670a1da64223"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844024106670a1da64224"
+        }
+      ]
+    },
+    {
+      "number": "40",
+      "volumeId": "5fb844024106670a1da64225",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844024106670a1da64226"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844024106670a1da64239"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844024106670a1da6423a"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fb844024106670a1da6423b"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fb844024106670a1da6423c"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "5fb844024106670a1da6423d"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "5fb844024106670a1da6423e"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "5fb844024106670a1da6423f"
+        }
+      ]
+    },
+    {
+      "number": "41",
+      "volumeId": "5fb844024106670a1da64240",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "5fb844024106670a1da64241"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "5fb844024106670a1da64242"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "5fb844024106670a1da64243"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "5fba109f3d79fc6ee3b268be"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "5fba10d29269c46ed5f7b165"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "6014afb3d43a9e6b28ed83a6"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "613f249abd5ea57887a8b80c"
+        }
+      ]
+    },
+    {
+      "number": "42",
+      "volumeId": "62cc36879cee3448a3b9c2c5",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "62bb951b95364f398d70011c"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "62bb9525fbeca37c6de55f19"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "62cf3656ddfcde4812151d6c"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "62f826911117ed493e721973"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "632f4d10eb00fa7090c8841f"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "634ec6c35019753398362609"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "63aae5126447a37bc3d404c1"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "645bced19871240eaaaea965"
+        }
+      ]
+    },
+    {
+      "number": "43",
+      "volumeId": "662bdf7d1ce7a21427e7c859",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "64809fcc43aa386672f1846b"
+        },
+        {
+          "num": "0002",
+          "title": "Capitolo 2",
+          "chapterId": "65189f705990504b1c5064e4"
+        },
+        {
+          "num": "0003",
+          "title": "Capitolo 3",
+          "chapterId": "6558ef4da2cf7f356d71ea2c"
+        },
+        {
+          "num": "0004",
+          "title": "Capitolo 4",
+          "chapterId": "66366f65045d6713be20546a"
+        },
+        {
+          "num": "0005",
+          "title": "Capitolo 5",
+          "chapterId": "6739ff94c2d8914634a1eaf8"
+        },
+        {
+          "num": "0006",
+          "title": "Capitolo 6",
+          "chapterId": "67433b825b25a1034ffd28a3"
+        },
+        {
+          "num": "0007",
+          "title": "Capitolo 7",
+          "chapterId": "67c49d4321d28b266f4f6829"
+        },
+        {
+          "num": "0008",
+          "title": "Capitolo 8",
+          "chapterId": "67d58d80f60ae6434a272447"
+        },
+        {
+          "num": "0009",
+          "title": "Capitolo 9",
+          "chapterId": "686a6590e6df4f691aa40315"
+        },
+        {
+          "num": "0010",
+          "title": "Capitolo 10",
+          "chapterId": "687c2e0a5d06373668b41e9d"
+        }
+      ]
+    },
+    {
+      "number": "44",
+      "volumeId": "697e0bd6566769349fa9f4ff",
+      "chapters": [
+        {
+          "num": "0001",
+          "title": "Capitolo 1",
+          "chapterId": "68d817115bd8621efdfcaad9"
+        }
+      ]
+    }
+  ]
+}

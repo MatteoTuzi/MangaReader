@@ -1,17 +1,33 @@
 <script setup>
-import { ref, computed, onMounted } from 'vue'
+import { ref, onMounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import chaptersData from '../data/chapters.json'
+import { useMangaLibrary } from '../composables/useMangaLibrary'
 
 const route = useRoute()
 const router = useRouter()
+const mangaId = ref(route.params.mangaId)
+const manga = ref(null)
 const volume = ref(null)
-const volumeNum = ref('')
+const volumeNum = ref(route.params.volumeNum)
+const { getManga, loadManga } = useMangaLibrary()
 
-onMounted(() => {
+onMounted(async () => {
+  await loadManga()
+  manga.value = getManga(mangaId.value)
   volumeNum.value = route.params.volumeNum
   const num = String(volumeNum.value).replace(/^0+/, '') || '0'
-  volume.value = chaptersData.volumes?.find(v => {
+  volume.value = manga.value?.volumes?.find(v => {
+    const vn = String(v.number).replace(/^0+/, '') || '0'
+    return vn === num
+  }) || null
+})
+
+watch(() => [route.params.mangaId, route.params.volumeNum], async ([id, vol]) => {
+  mangaId.value = id
+  volumeNum.value = vol
+  manga.value = getManga(id)
+  const num = String(vol).replace(/^0+/, '') || '0'
+  volume.value = manga.value?.volumes?.find(v => {
     const vn = String(v.number).replace(/^0+/, '') || '0'
     return vn === num
   }) || null
@@ -20,11 +36,14 @@ onMounted(() => {
 function goToReader(chapter) {
   const chapterNum = typeof chapter.num === 'string' ? chapter.num : String(chapter.num)
   const volNum = String(volume.value?.number ?? volumeNum.value).padStart(3, '0')
-  router.push({ name: 'reader', params: { volumeNum: volNum, chapterNum } })
+  router.push({
+    name: 'reader',
+    params: { mangaId: mangaId.value, volumeNum: volNum, chapterNum }
+  })
 }
 
 function goBack() {
-  router.push({ name: 'volumes' })
+  router.push({ name: 'volumes', params: { mangaId: mangaId.value } })
 }
 </script>
 

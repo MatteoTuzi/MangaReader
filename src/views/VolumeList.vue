@@ -1,32 +1,40 @@
 <script setup>
 import { ref, onMounted, watch } from 'vue'
-import { useRouter } from 'vue-router'
-import chaptersData from '../data/chapters.json'
+import { useRoute, useRouter } from 'vue-router'
+import { useMangaLibrary } from '../composables/useMangaLibrary'
 import { useBookmark } from '../composables/useBookmark'
 import { useAuth } from '../composables/useAuth'
 
+const route = useRoute()
 const router = useRouter()
-const volumes = ref([])
-const mangaTitle = ref('')
+const mangaId = ref(route.params.mangaId)
+const manga = ref(null)
 const bookmark = ref(null)
+const { getManga, loadManga, deleteManga, DEFAULT_MANGA_ID } = useMangaLibrary()
+const { load: loadBookmark } = useBookmark()
 const { user } = useAuth()
 
-async function loadBookmark() {
-  const { load } = useBookmark()
-  bookmark.value = await load()
+async function loadBookmarkData() {
+  bookmark.value = await loadBookmark(mangaId.value)
 }
 
 onMounted(async () => {
-  mangaTitle.value = chaptersData.mangaTitle || 'One Piece Volumi Colored'
-  volumes.value = chaptersData.volumes || []
-  await loadBookmark()
+  await loadManga()
+  manga.value = getManga(mangaId.value)
+  await loadBookmarkData()
 })
 
-watch(user, () => loadBookmark())
+watch(() => route.params.mangaId, (id) => {
+  mangaId.value = id
+  manga.value = getManga(id)
+  loadBookmarkData()
+})
+
+watch(user, loadBookmarkData)
 
 function goToVolume(vol) {
   const num = typeof vol.number === 'string' ? vol.number : String(vol.number).padStart(3, '0')
-  router.push({ name: 'chapters', params: { volumeNum: num } })
+  router.push({ name: 'chapters', params: { mangaId: mangaId.value, volumeNum: num } })
 }
 
 function continueReading() {
@@ -34,17 +42,43 @@ function continueReading() {
   const { volumeNum, chapterNum, page } = bookmark.value
   router.push({
     name: 'reader',
-    params: { volumeNum, chapterNum },
+    params: { mangaId: mangaId.value, volumeNum, chapterNum },
     query: { page: String(page) }
   })
+}
+
+function goBack() {
+  router.push({ name: 'library' })
+}
+
+async function removeManga() {
+  if (!user || mangaId.value === DEFAULT_MANGA_ID) return
+  if (!confirm('Eliminare questo manga dalla libreria?')) return
+  try {
+    await deleteManga(mangaId.value)
+    router.push({ name: 'library' })
+  } catch (e) {
+    alert('Errore: ' + (e.message || 'Riprova'))
+  }
 }
 </script>
 
 <template>
   <div class="volume-list">
     <header class="header">
-      <h1>{{ mangaTitle }}</h1>
-      <p class="subtitle">Seleziona un volume per vedere i capitoli</p>
+      <div class="header-row">
+        <button class="back-btn" @click="goBack">← Libreria</button>
+        <button
+          v-if="user && manga && !manga.isDefault"
+          class="delete-btn"
+          @click="removeManga"
+          title="Elimina manga"
+        >
+          🗑 Elimina
+        </button>
+      </div>
+      <h1>{{ manga?.title || 'Caricamento...' }}</h1>
+      <p v-if="manga" class="subtitle">Seleziona un volume</p>
     </header>
 
     <button
@@ -52,13 +86,13 @@ function continueReading() {
       class="bookmark-btn"
       @click="continueReading"
     >
-      📖 Continua da dove eri: Capitolo {{ bookmark.chapterNum }} - Pagina {{ bookmark.page }}
+      📖 Continua: Capitolo {{ bookmark.chapterNum }} - Pagina {{ bookmark.page }}
       <span v-if="bookmark.chapterTitle" class="bookmark-title">{{ bookmark.chapterTitle }}</span>
     </button>
 
-    <div class="volumes-grid">
+    <div v-if="manga" class="volumes-grid">
       <button
-        v-for="vol in volumes"
+        v-for="vol in manga.volumes"
         :key="vol.number"
         class="volume-card"
         @click="goToVolume(vol)"
@@ -66,6 +100,11 @@ function continueReading() {
         <span class="volume-num">Volume {{ vol.number }}</span>
         <span class="chapter-count">{{ vol.chapters?.length || 0 }} capitoli</span>
       </button>
+    </div>
+
+    <div v-else class="empty">
+      <p>Manga non trovato</p>
+      <button class="back-btn" @click="goBack">Torna alla libreria</button>
     </div>
   </div>
 </template>
@@ -77,22 +116,62 @@ function continueReading() {
   padding: 2rem;
 }
 
+.header-row {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+
+.header-row .back-btn,
+.header-row .delete-btn {
+  margin-bottom: 0;
+}
+
+.delete-btn {
+  padding: 0.5rem 1rem;
+  background: transparent;
+  border: 1px solid rgba(255, 100, 100, 0.5);
+  color: #ff6464;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.delete-btn:hover {
+  background: rgba(255, 100, 100, 0.15);
+}
+
 .header {
-  text-align: center;
-  margin-bottom: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.back-btn {
+  background: transparent;
+  border: 1px solid rgba(233, 69, 96, 0.5);
+  color: #e94560;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  transition: all 0.2s;
+}
+
+.back-btn:hover {
+  background: rgba(233, 69, 96, 0.2);
 }
 
 .header h1 {
   color: #e94560;
-  font-size: 2rem;
-  font-weight: 700;
-  margin-bottom: 0.5rem;
-  text-shadow: 0 0 20px rgba(233, 69, 96, 0.3);
+  font-size: 1.75rem;
+  margin-bottom: 0.25rem;
 }
 
 .subtitle {
   color: #a2a8c4;
-  font-size: 1rem;
+  font-size: 0.95rem;
 }
 
 .bookmark-btn {
@@ -164,5 +243,11 @@ function continueReading() {
 .chapter-count {
   color: #a2a8c4;
   font-size: 0.85rem;
+}
+
+.empty {
+  text-align: center;
+  color: #a2a8c4;
+  padding: 3rem;
 }
 </style>
