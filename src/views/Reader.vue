@@ -21,31 +21,46 @@ function getImageUrl(page) {
   return `${baseUrl.value}/volume${vol}/${chapterNum.value}/${pageStr}.jpg`
 }
 
+const BATCH_SIZE = 10
+
+const checkPage = (p) => {
+  return new Promise((resolve) => {
+    const img = new Image()
+    img.onload = () => resolve(true)
+    img.onerror = () => resolve(false)
+    img.src = getImageUrl(p)
+  })
+}
+
 async function discoverPages() {
   const discovered = []
-  let page = 1
+  let start = 1
   const maxPages = 500
 
-  const checkPage = (p) => {
-    return new Promise((resolve) => {
-      const img = new Image()
-      img.onload = () => resolve(true)
-      img.onerror = () => resolve(false)
-      img.src = getImageUrl(p)
-    })
-  }
-
-  while (page <= maxPages) {
-    const exists = await checkPage(page)
-    if (exists) {
-      discovered.push(page)
-      page++
-    } else {
-      break
+  while (start <= maxPages) {
+    const batch = Array.from({ length: BATCH_SIZE }, (_, i) => start + i)
+    const results = await Promise.all(batch.map(checkPage))
+    let lastValid = -1
+    for (let i = 0; i < results.length; i++) {
+      if (results[i]) lastValid = i
+      else break
     }
+    for (let i = 0; i <= lastValid; i++) discovered.push(batch[i])
+    if (lastValid < BATCH_SIZE - 1) break
+    start += BATCH_SIZE
   }
 
   return discovered
+}
+
+function preloadPages(fromPage) {
+  for (let i = 0; i < BATCH_SIZE; i++) {
+    const p = fromPage + i
+    if (p <= totalPages.value) {
+      const img = new Image()
+      img.src = getImageUrl(p)
+    }
+  }
 }
 
 onMounted(async () => {
@@ -69,6 +84,10 @@ onMounted(async () => {
     loading.value = false
   }
   window.addEventListener('keydown', onKeydown)
+})
+
+watch(currentPage, (page) => {
+  if (totalPages.value > 0) preloadPages(page + 1)
 })
 
 watch(() => [route.params.volumeNum, route.params.chapterNum], async ([newVol, newNum]) => {
