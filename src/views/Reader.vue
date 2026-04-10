@@ -29,6 +29,39 @@ const currentChapterData = computed(() => {
   return vol.chapters.find(c => String(c.num) === String(chapterNum.value)) || null
 })
 
+const nextChapterRoute = computed(() => {
+  const volumes = manga.value?.volumes || []
+  if (!volumes.length) return null
+
+  const currentVolumeNormalized = (String(volumeNum.value).replace(/^0+/, '') || '0')
+  const currentVolumeIndex = volumes.findIndex(v => (String(v.number).replace(/^0+/, '') || '0') === currentVolumeNormalized)
+  if (currentVolumeIndex === -1) return null
+
+  const currentVolume = volumes[currentVolumeIndex]
+  const chapters = currentVolume?.chapters || []
+  const currentChapterIndex = chapters.findIndex(c => String(c.num) === String(chapterNum.value))
+  if (currentChapterIndex === -1) return null
+
+  const nextInCurrentVolume = chapters[currentChapterIndex + 1]
+  if (nextInCurrentVolume) {
+    return {
+      mangaId: mangaId.value,
+      volumeNum: String(currentVolume.number).padStart(3, '0'),
+      chapterNum: String(nextInCurrentVolume.num)
+    }
+  }
+
+  const nextVolume = volumes[currentVolumeIndex + 1]
+  const firstChapterInNextVolume = nextVolume?.chapters?.[0]
+  if (!nextVolume || !firstChapterInNextVolume) return null
+
+  return {
+    mangaId: mangaId.value,
+    volumeNum: String(nextVolume.number).padStart(3, '0'),
+    chapterNum: String(firstChapterInNextVolume.num)
+  }
+})
+
 function getImageUrl(page) {
   const base = baseUrl.value
   const pageStr = String(page).padStart(2, '0')
@@ -216,6 +249,14 @@ function goBack() {
   router.push({ name: 'chapters', params: { mangaId: mangaId.value, volumeNum: volumeNum.value } })
 }
 
+function goToNextChapter() {
+  if (!nextChapterRoute.value) return
+  router.push({
+    name: 'reader',
+    params: nextChapterRoute.value
+  })
+}
+
 function goToPage(p) {
   if (p >= 1 && p <= totalPages.value) currentPage.value = p
 }
@@ -235,6 +276,9 @@ onUnmounted(() => {
     <header class="reader-header">
       <button class="back-btn" @click="goBack">← Esci</button>
       <span class="chapter-info">Capitolo {{ chapterNum }} - Pagina {{ currentPage }}/{{ totalPages }}</span>
+      <button class="next-chapter-btn" :disabled="!nextChapterRoute" @click="goToNextChapter">
+        Vai al prossimo capitolo →
+      </button>
     </header>
 
     <div v-if="loading" class="loading">
@@ -327,6 +371,28 @@ onUnmounted(() => {
 .chapter-info {
   color: #a2a8c4;
   font-size: 0.95rem;
+}
+
+.next-chapter-btn {
+  margin-left: auto;
+  background: rgba(233, 69, 96, 0.15);
+  border: 1px solid rgba(233, 69, 96, 0.6);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.next-chapter-btn:hover:not(:disabled) {
+  background: rgba(233, 69, 96, 0.3);
+  border-color: #e94560;
+}
+
+.next-chapter-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
 }
 
 .loading, .error-state {
