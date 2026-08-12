@@ -84,7 +84,8 @@ function getImageUrl(page) {
   }
 
   const vol = String(volumeNum.value).padStart(3, '0')
-  return `${base}/volume${vol}/${chapterNum.value}/${pageStr}.jpg`
+  const chapterFolder = (String(chapterNum.value).replace(/^0+/, '') || '0').padStart(2, '0')
+  return `${base}/volume${vol}/capitolo${chapterFolder}/${pageStr}.jpg`
 }
 
 const BATCH_SIZE = 10

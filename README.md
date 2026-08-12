@@ -13,9 +13,9 @@ Applicazione Vue per la lettura dei manga One Piece Colored da [One Piece Power]
 
 ## Struttura URL
 
-- **Base**: `https://onepiecepower.com/manga8/onepiece/volumiSpeciali/volumiColored`
-- **Immagini**: `{baseUrl}/reader/{numeroCapitolo}/{numeroPagina}.jpg`
-- Esempio: `.../reader/117/1.jpg`, `.../reader/117/2.jpg`, ecc.
+- **Base**: `https://onepiecepower.com/manga8/one-piece-colored-edition`
+- **Immagini**: `{baseUrl}/volume{numeroVolume}/capitolo{numeroCapitolo}/{numeroPagina}.jpg`
+- Esempio: `.../volume001/capitolo08/01.jpg`, `.../volume001/capitolo08/02.jpg`, ecc.
 
 ## Avvio
 

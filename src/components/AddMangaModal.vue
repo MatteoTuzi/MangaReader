@@ -208,7 +208,7 @@ async function submit() {
         <div class="field">
           <label>Pattern URL</label>
           <select v-model="urlPattern">
-            <option value="volume">volume{vol}/{chapter}/{page}.jpg</option>
+            <option value="volume">volume{vol}/capitolo{chapter}/{page}.jpg</option>
             <option value="reader">reader/{chapter}/{page}.jpg</option>
             <option value="chapterId">chapterId (MangaWorld CDN: mangaSlug/volume-{vol}-{volId}/capitolo-{ch}-{chId}/{page}.jpg)</option>
           </select>

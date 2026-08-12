@@ -43,7 +43,7 @@ function parseChaptersFromText(text) {
 
 // Dati di fallback completi (primi 20 volumi come esempio - il resto viene da parsing)
 const fallbackData = {
-  baseUrl: 'https://onepiecepower.com/manga8/onepiece/volumiSpeciali/volumiColored',
+  baseUrl: 'https://onepiecepower.com/manga8/one-piece-colored-edition/',
   mangaTitle: 'One Piece - Volumi Colored',
   volumes: []
 };
